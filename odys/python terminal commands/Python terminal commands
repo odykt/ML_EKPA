@@ -1,0 +1,6 @@
+python -m pip list  --> works when trying to run pip in venv
+
+
+python -m pip freeze > requirements.txt  --> export required installs from pip
+
+D:\ML_LOCAL_WIN\.venv\Scripts\Activate.ps1 --> activate venv
