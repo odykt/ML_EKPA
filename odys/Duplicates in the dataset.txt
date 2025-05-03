@@ -1,0 +1,898 @@
+Checking for duplicates in folder: AbdomenCT
+Found duplicates in folder 'AbdomenCT':
+Duplicate: D:/ML_LOCAL_WIN/archive\AbdomenCT\001584.jpeg and D:/ML_LOCAL_WIN/archive\AbdomenCT\001576.jpeg
+Duplicate: D:/ML_LOCAL_WIN/archive\AbdomenCT\001586.jpeg and D:/ML_LOCAL_WIN/archive\AbdomenCT\001582.jpeg
+Duplicate: D:/ML_LOCAL_WIN/archive\AbdomenCT\001591.jpeg and D:/ML_LOCAL_WIN/archive\AbdomenCT\001565.jpeg
+Duplicate: D:/ML_LOCAL_WIN/archive\AbdomenCT\001592.jpeg and D:/ML_LOCAL_WIN/archive\AbdomenCT\001587.jpeg
+Duplicate: D:/ML_LOCAL_WIN/archive\AbdomenCT\001607.jpeg and D:/ML_LOCAL_WIN/archive\AbdomenCT\001568.jpeg
+Duplicate: D:/ML_LOCAL_WIN/archive\AbdomenCT\001612.jpeg and D:/ML_LOCAL_WIN/archive\AbdomenCT\001580.jpeg
+Duplicate: D:/ML_LOCAL_WIN/archive\AbdomenCT\001616.jpeg and D:/ML_LOCAL_WIN/archive\AbdomenCT\001615.jpeg
+Duplicate: D:/ML_LOCAL_WIN/archive\AbdomenCT\001618.jpeg and D:/ML_LOCAL_WIN/archive\AbdomenCT\001609.jpeg
+Duplicate: D:/ML_LOCAL_WIN/archive\AbdomenCT\001623.jpeg and D:/ML_LOCAL_WIN/archive\AbdomenCT\001572.jpeg
+Duplicate: D:/ML_LOCAL_WIN/archive\AbdomenCT\001629.jpeg and D:/ML_LOCAL_WIN/archive\AbdomenCT\001602.jpeg
+Duplicate: D:/ML_LOCAL_WIN/archive\AbdomenCT\001633.jpeg and D:/ML_LOCAL_WIN/archive\AbdomenCT\001621.jpeg
+Duplicate: D:/ML_LOCAL_WIN/archive\AbdomenCT\001640.jpeg and D:/ML_LOCAL_WIN/archive\AbdomenCT\001597.jpeg
+Duplicate: D:/ML_LOCAL_WIN/archive\AbdomenCT\001650.jpeg and D:/ML_LOCAL_WIN/archive\AbdomenCT\001598.jpeg
+Duplicate: D:/ML_LOCAL_WIN/archive\AbdomenCT\001651.jpeg and D:/ML_LOCAL_WIN/archive\AbdomenCT\001638.jpeg
+Duplicate: D:/ML_LOCAL_WIN/archive\AbdomenCT\001653.jpeg and D:/ML_LOCAL_WIN/archive\AbdomenCT\001610.jpeg
+Duplicate: D:/ML_LOCAL_WIN/archive\AbdomenCT\001656.jpeg and D:/ML_LOCAL_WIN/archive\AbdomenCT\001596.jpeg
+Duplicate: D:/ML_LOCAL_WIN/archive\AbdomenCT\001659.jpeg and D:/ML_LOCAL_WIN/archive\AbdomenCT\001613.jpeg
+Duplicate: D:/ML_LOCAL_WIN/archive\AbdomenCT\001661.jpeg and D:/ML_LOCAL_WIN/archive\AbdomenCT\001646.jpeg
+Duplicate: D:/ML_LOCAL_WIN/archive\AbdomenCT\001664.jpeg and D:/ML_LOCAL_WIN/archive\AbdomenCT\001641.jpeg
+Duplicate: D:/ML_LOCAL_WIN/archive\AbdomenCT\001665.jpeg and D:/ML_LOCAL_WIN/archive\AbdomenCT\001624.jpeg
+Duplicate: D:/ML_LOCAL_WIN/archive\AbdomenCT\001667.jpeg and D:/ML_LOCAL_WIN/archive\AbdomenCT\001645.jpeg
+Duplicate: D:/ML_LOCAL_WIN/archive\AbdomenCT\001668.jpeg and D:/ML_LOCAL_WIN/archive\AbdomenCT\001590.jpeg
+Duplicate: D:/ML_LOCAL_WIN/archive\AbdomenCT\001670.jpeg and D:/ML_LOCAL_WIN/archive\AbdomenCT\001570.jpeg
+Duplicate: D:/ML_LOCAL_WIN/archive\AbdomenCT\001672.jpeg and D:/ML_LOCAL_WIN/archive\AbdomenCT\001601.jpeg
+Duplicate: D:/ML_LOCAL_WIN/archive\AbdomenCT\001674.jpeg and D:/ML_LOCAL_WIN/archive\AbdomenCT\001663.jpeg
+Duplicate: D:/ML_LOCAL_WIN/archive\AbdomenCT\001675.jpeg and D:/ML_LOCAL_WIN/archive\AbdomenCT\001577.jpeg
+Duplicate: D:/ML_LOCAL_WIN/archive\AbdomenCT\001677.jpeg and D:/ML_LOCAL_WIN/archive\AbdomenCT\001662.jpeg
+Duplicate: D:/ML_LOCAL_WIN/archive\AbdomenCT\001678.jpeg and D:/ML_LOCAL_WIN/archive\AbdomenCT\001658.jpeg
+Duplicate: D:/ML_LOCAL_WIN/archive\AbdomenCT\001679.jpeg and D:/ML_LOCAL_WIN/archive\AbdomenCT\001594.jpeg
+Duplicate: D:/ML_LOCAL_WIN/archive\AbdomenCT\001680.jpeg and D:/ML_LOCAL_WIN/archive\AbdomenCT\001608.jpeg
+Duplicate: D:/ML_LOCAL_WIN/archive\AbdomenCT\001682.jpeg and D:/ML_LOCAL_WIN/archive\AbdomenCT\001652.jpeg
+Duplicate: D:/ML_LOCAL_WIN/archive\AbdomenCT\001684.jpeg and D:/ML_LOCAL_WIN/archive\AbdomenCT\001619.jpeg
+Duplicate: D:/ML_LOCAL_WIN/archive\AbdomenCT\001685.jpeg and D:/ML_LOCAL_WIN/archive\AbdomenCT\001628.jpeg
+Duplicate: D:/ML_LOCAL_WIN/archive\AbdomenCT\001687.jpeg and D:/ML_LOCAL_WIN/archive\AbdomenCT\001636.jpeg
+Duplicate: D:/ML_LOCAL_WIN/archive\AbdomenCT\001688.jpeg and D:/ML_LOCAL_WIN/archive\AbdomenCT\001635.jpeg
+Duplicate: D:/ML_LOCAL_WIN/archive\AbdomenCT\001689.jpeg and D:/ML_LOCAL_WIN/archive\AbdomenCT\001647.jpeg
+Duplicate: D:/ML_LOCAL_WIN/archive\AbdomenCT\001691.jpeg and D:/ML_LOCAL_WIN/archive\AbdomenCT\001686.jpeg
+Duplicate: D:/ML_LOCAL_WIN/archive\AbdomenCT\001692.jpeg and D:/ML_LOCAL_WIN/archive\AbdomenCT\001654.jpeg
+Duplicate: D:/ML_LOCAL_WIN/archive\AbdomenCT\001694.jpeg and D:/ML_LOCAL_WIN/archive\AbdomenCT\001614.jpeg
+Duplicate: D:/ML_LOCAL_WIN/archive\AbdomenCT\001695.jpeg and D:/ML_LOCAL_WIN/archive\AbdomenCT\001625.jpeg
+Duplicate: D:/ML_LOCAL_WIN/archive\AbdomenCT\001697.jpeg and D:/ML_LOCAL_WIN/archive\AbdomenCT\001676.jpeg
+Duplicate: D:/ML_LOCAL_WIN/archive\AbdomenCT\001700.jpeg and D:/ML_LOCAL_WIN/archive\AbdomenCT\001571.jpeg
+Duplicate: D:/ML_LOCAL_WIN/archive\AbdomenCT\001701.jpeg and D:/ML_LOCAL_WIN/archive\AbdomenCT\001666.jpeg
+Duplicate: D:/ML_LOCAL_WIN/archive\AbdomenCT\001704.jpeg and D:/ML_LOCAL_WIN/archive\AbdomenCT\001575.jpeg
+Duplicate: D:/ML_LOCAL_WIN/archive\AbdomenCT\001707.jpeg and D:/ML_LOCAL_WIN/archive\AbdomenCT\001705.jpeg
+Duplicate: D:/ML_LOCAL_WIN/archive\AbdomenCT\001708.jpeg and D:/ML_LOCAL_WIN/archive\AbdomenCT\001620.jpeg
+Duplicate: D:/ML_LOCAL_WIN/archive\AbdomenCT\001709.jpeg and D:/ML_LOCAL_WIN/archive\AbdomenCT\001589.jpeg
+Duplicate: D:/ML_LOCAL_WIN/archive\AbdomenCT\001710.jpeg and D:/ML_LOCAL_WIN/archive\AbdomenCT\001627.jpeg
+Duplicate: D:/ML_LOCAL_WIN/archive\AbdomenCT\001712.jpeg and D:/ML_LOCAL_WIN/archive\AbdomenCT\001605.jpeg
+Duplicate: D:/ML_LOCAL_WIN/archive\AbdomenCT\001713.jpeg and D:/ML_LOCAL_WIN/archive\AbdomenCT\001657.jpeg
+Duplicate: D:/ML_LOCAL_WIN/archive\AbdomenCT\001715.jpeg and D:/ML_LOCAL_WIN/archive\AbdomenCT\001632.jpeg
+Duplicate: D:/ML_LOCAL_WIN/archive\AbdomenCT\001719.jpeg and D:/ML_LOCAL_WIN/archive\AbdomenCT\001642.jpeg
+Duplicate: D:/ML_LOCAL_WIN/archive\AbdomenCT\001720.jpeg and D:/ML_LOCAL_WIN/archive\AbdomenCT\001595.jpeg
+Duplicate: D:/ML_LOCAL_WIN/archive\AbdomenCT\001724.jpeg and D:/ML_LOCAL_WIN/archive\AbdomenCT\001706.jpeg
+Duplicate: D:/ML_LOCAL_WIN/archive\AbdomenCT\001725.jpeg and D:/ML_LOCAL_WIN/archive\AbdomenCT\001698.jpeg
+Duplicate: D:/ML_LOCAL_WIN/archive\AbdomenCT\001726.jpeg and D:/ML_LOCAL_WIN/archive\AbdomenCT\001639.jpeg
+Duplicate: D:/ML_LOCAL_WIN/archive\AbdomenCT\001729.jpeg and D:/ML_LOCAL_WIN/archive\AbdomenCT\001643.jpeg
+Duplicate: D:/ML_LOCAL_WIN/archive\AbdomenCT\001731.jpeg and D:/ML_LOCAL_WIN/archive\AbdomenCT\001699.jpeg
+Duplicate: D:/ML_LOCAL_WIN/archive\AbdomenCT\001732.jpeg and D:/ML_LOCAL_WIN/archive\AbdomenCT\001660.jpeg
+Duplicate: D:/ML_LOCAL_WIN/archive\AbdomenCT\001734.jpeg and D:/ML_LOCAL_WIN/archive\AbdomenCT\001567.jpeg
+Duplicate: D:/ML_LOCAL_WIN/archive\AbdomenCT\001737.jpeg and D:/ML_LOCAL_WIN/archive\AbdomenCT\001611.jpeg
+Duplicate: D:/ML_LOCAL_WIN/archive\AbdomenCT\001740.jpeg and D:/ML_LOCAL_WIN/archive\AbdomenCT\001637.jpeg
+Duplicate: D:/ML_LOCAL_WIN/archive\AbdomenCT\001742.jpeg and D:/ML_LOCAL_WIN/archive\AbdomenCT\001649.jpeg
+Duplicate: D:/ML_LOCAL_WIN/archive\AbdomenCT\001743.jpeg and D:/ML_LOCAL_WIN/archive\AbdomenCT\001727.jpeg
+Duplicate: D:/ML_LOCAL_WIN/archive\AbdomenCT\001744.jpeg and D:/ML_LOCAL_WIN/archive\AbdomenCT\001579.jpeg
+Duplicate: D:/ML_LOCAL_WIN/archive\AbdomenCT\001745.jpeg and D:/ML_LOCAL_WIN/archive\AbdomenCT\001703.jpeg
+Duplicate: D:/ML_LOCAL_WIN/archive\AbdomenCT\001746.jpeg and D:/ML_LOCAL_WIN/archive\AbdomenCT\001723.jpeg
+Duplicate: D:/ML_LOCAL_WIN/archive\AbdomenCT\001749.jpeg and D:/ML_LOCAL_WIN/archive\AbdomenCT\001630.jpeg
+Duplicate: D:/ML_LOCAL_WIN/archive\AbdomenCT\001751.jpeg and D:/ML_LOCAL_WIN/archive\AbdomenCT\001750.jpeg
+Duplicate: D:/ML_LOCAL_WIN/archive\AbdomenCT\001753.jpeg and D:/ML_LOCAL_WIN/archive\AbdomenCT\001733.jpeg
+Duplicate: D:/ML_LOCAL_WIN/archive\AbdomenCT\001754.jpeg and D:/ML_LOCAL_WIN/archive\AbdomenCT\001604.jpeg
+Duplicate: D:/ML_LOCAL_WIN/archive\AbdomenCT\001755.jpeg and D:/ML_LOCAL_WIN/archive\AbdomenCT\001583.jpeg
+Duplicate: D:/ML_LOCAL_WIN/archive\AbdomenCT\001756.jpeg and D:/ML_LOCAL_WIN/archive\AbdomenCT\001748.jpeg
+Duplicate: D:/ML_LOCAL_WIN/archive\AbdomenCT\001757.jpeg and D:/ML_LOCAL_WIN/archive\AbdomenCT\001599.jpeg
+Duplicate: D:/ML_LOCAL_WIN/archive\AbdomenCT\001758.jpeg and D:/ML_LOCAL_WIN/archive\AbdomenCT\001631.jpeg
+Duplicate: D:/ML_LOCAL_WIN/archive\AbdomenCT\001760.jpeg and D:/ML_LOCAL_WIN/archive\AbdomenCT\001717.jpeg
+Duplicate: D:/ML_LOCAL_WIN/archive\AbdomenCT\001761.jpeg and D:/ML_LOCAL_WIN/archive\AbdomenCT\001573.jpeg
+Duplicate: D:/ML_LOCAL_WIN/archive\AbdomenCT\001762.jpeg and D:/ML_LOCAL_WIN/archive\AbdomenCT\001741.jpeg
+Duplicate: D:/ML_LOCAL_WIN/archive\AbdomenCT\001763.jpeg and D:/ML_LOCAL_WIN/archive\AbdomenCT\001648.jpeg
+Duplicate: D:/ML_LOCAL_WIN/archive\AbdomenCT\001764.jpeg and D:/ML_LOCAL_WIN/archive\AbdomenCT\001574.jpeg
+Duplicate: D:/ML_LOCAL_WIN/archive\AbdomenCT\001765.jpeg and D:/ML_LOCAL_WIN/archive\AbdomenCT\001747.jpeg
+Duplicate: D:/ML_LOCAL_WIN/archive\AbdomenCT\001766.jpeg and D:/ML_LOCAL_WIN/archive\AbdomenCT\001671.jpeg
+Duplicate: D:/ML_LOCAL_WIN/archive\AbdomenCT\001767.jpeg and D:/ML_LOCAL_WIN/archive\AbdomenCT\001702.jpeg
+Duplicate: D:/ML_LOCAL_WIN/archive\AbdomenCT\001768.jpeg and D:/ML_LOCAL_WIN/archive\AbdomenCT\001581.jpeg
+Duplicate: D:/ML_LOCAL_WIN/archive\AbdomenCT\001769.jpeg and D:/ML_LOCAL_WIN/archive\AbdomenCT\001585.jpeg
+Duplicate: D:/ML_LOCAL_WIN/archive\AbdomenCT\001771.jpeg and D:/ML_LOCAL_WIN/archive\AbdomenCT\001606.jpeg
+Duplicate: D:/ML_LOCAL_WIN/archive\AbdomenCT\001773.jpeg and D:/ML_LOCAL_WIN/archive\AbdomenCT\001683.jpeg
+Duplicate: D:/ML_LOCAL_WIN/archive\AbdomenCT\001774.jpeg and D:/ML_LOCAL_WIN/archive\AbdomenCT\001714.jpeg
+Duplicate: D:/ML_LOCAL_WIN/archive\AbdomenCT\001775.jpeg and D:/ML_LOCAL_WIN/archive\AbdomenCT\001759.jpeg
+Duplicate: D:/ML_LOCAL_WIN/archive\AbdomenCT\001776.jpeg and D:/ML_LOCAL_WIN/archive\AbdomenCT\001578.jpeg
+Duplicate: D:/ML_LOCAL_WIN/archive\AbdomenCT\001777.jpeg and D:/ML_LOCAL_WIN/archive\AbdomenCT\001634.jpeg
+Duplicate: D:/ML_LOCAL_WIN/archive\AbdomenCT\001778.jpeg and D:/ML_LOCAL_WIN/archive\AbdomenCT\001588.jpeg
+Duplicate: D:/ML_LOCAL_WIN/archive\AbdomenCT\001779.jpeg and D:/ML_LOCAL_WIN/archive\AbdomenCT\001617.jpeg
+Duplicate: D:/ML_LOCAL_WIN/archive\AbdomenCT\001781.jpeg and D:/ML_LOCAL_WIN/archive\AbdomenCT\001739.jpeg
+Duplicate: D:/ML_LOCAL_WIN/archive\AbdomenCT\001782.jpeg and D:/ML_LOCAL_WIN/archive\AbdomenCT\001669.jpeg
+Duplicate: D:/ML_LOCAL_WIN/archive\AbdomenCT\001783.jpeg and D:/ML_LOCAL_WIN/archive\AbdomenCT\001730.jpeg
+Duplicate: D:/ML_LOCAL_WIN/archive\AbdomenCT\001784.jpeg and D:/ML_LOCAL_WIN/archive\AbdomenCT\001655.jpeg
+Duplicate: D:/ML_LOCAL_WIN/archive\AbdomenCT\001785.jpeg and D:/ML_LOCAL_WIN/archive\AbdomenCT\001690.jpeg
+Duplicate: D:/ML_LOCAL_WIN/archive\AbdomenCT\001786.jpeg and D:/ML_LOCAL_WIN/archive\AbdomenCT\001780.jpeg
+Duplicate: D:/ML_LOCAL_WIN/archive\AbdomenCT\001787.jpeg and D:/ML_LOCAL_WIN/archive\AbdomenCT\001735.jpeg
+Duplicate: D:/ML_LOCAL_WIN/archive\AbdomenCT\001788.jpeg and D:/ML_LOCAL_WIN/archive\AbdomenCT\001693.jpeg
+Duplicate: D:/ML_LOCAL_WIN/archive\AbdomenCT\001789.jpeg and D:/ML_LOCAL_WIN/archive\AbdomenCT\001603.jpeg
+Duplicate: D:/ML_LOCAL_WIN/archive\AbdomenCT\001790.jpeg and D:/ML_LOCAL_WIN/archive\AbdomenCT\001644.jpeg
+Duplicate: D:/ML_LOCAL_WIN/archive\AbdomenCT\001791.jpeg and D:/ML_LOCAL_WIN/archive\AbdomenCT\001673.jpeg
+Duplicate: D:/ML_LOCAL_WIN/archive\AbdomenCT\001792.jpeg and D:/ML_LOCAL_WIN/archive\AbdomenCT\001681.jpeg
+Duplicate: D:/ML_LOCAL_WIN/archive\AbdomenCT\001793.jpeg and D:/ML_LOCAL_WIN/archive\AbdomenCT\001600.jpeg
+Duplicate: D:/ML_LOCAL_WIN/archive\AbdomenCT\001794.jpeg and D:/ML_LOCAL_WIN/archive\AbdomenCT\001738.jpeg
+Duplicate: D:/ML_LOCAL_WIN/archive\AbdomenCT\001795.jpeg and D:/ML_LOCAL_WIN/archive\AbdomenCT\001772.jpeg
+Duplicate: D:/ML_LOCAL_WIN/archive\AbdomenCT\001796.jpeg and D:/ML_LOCAL_WIN/archive\AbdomenCT\001770.jpeg
+Duplicate: D:/ML_LOCAL_WIN/archive\AbdomenCT\001797.jpeg and D:/ML_LOCAL_WIN/archive\AbdomenCT\001622.jpeg
+Duplicate: D:/ML_LOCAL_WIN/archive\AbdomenCT\001798.jpeg and D:/ML_LOCAL_WIN/archive\AbdomenCT\001721.jpeg
+Duplicate: D:/ML_LOCAL_WIN/archive\AbdomenCT\001799.jpeg and D:/ML_LOCAL_WIN/archive\AbdomenCT\001736.jpeg
+Duplicate: D:/ML_LOCAL_WIN/archive\AbdomenCT\001800.jpeg and D:/ML_LOCAL_WIN/archive\AbdomenCT\001711.jpeg
+Duplicate: D:/ML_LOCAL_WIN/archive\AbdomenCT\001801.jpeg and D:/ML_LOCAL_WIN/archive\AbdomenCT\001696.jpeg
+Duplicate: D:/ML_LOCAL_WIN/archive\AbdomenCT\001803.jpeg and D:/ML_LOCAL_WIN/archive\AbdomenCT\001728.jpeg
+Duplicate: D:/ML_LOCAL_WIN/archive\AbdomenCT\001804.jpeg and D:/ML_LOCAL_WIN/archive\AbdomenCT\001566.jpeg
+Duplicate: D:/ML_LOCAL_WIN/archive\AbdomenCT\001805.jpeg and D:/ML_LOCAL_WIN/archive\AbdomenCT\001722.jpeg
+Duplicate: D:/ML_LOCAL_WIN/archive\AbdomenCT\001806.jpeg and D:/ML_LOCAL_WIN/archive\AbdomenCT\001569.jpeg
+Duplicate: D:/ML_LOCAL_WIN/archive\AbdomenCT\001807.jpeg and D:/ML_LOCAL_WIN/archive\AbdomenCT\001626.jpeg
+Duplicate: D:/ML_LOCAL_WIN/archive\AbdomenCT\001808.jpeg and D:/ML_LOCAL_WIN/archive\AbdomenCT\001716.jpeg
+Duplicate: D:/ML_LOCAL_WIN/archive\AbdomenCT\001809.jpeg and D:/ML_LOCAL_WIN/archive\AbdomenCT\001752.jpeg
+Duplicate: D:/ML_LOCAL_WIN/archive\AbdomenCT\001810.jpeg and D:/ML_LOCAL_WIN/archive\AbdomenCT\001593.jpeg
+Duplicate: D:/ML_LOCAL_WIN/archive\AbdomenCT\001811.jpeg and D:/ML_LOCAL_WIN/archive\AbdomenCT\001718.jpeg
+Duplicate: D:/ML_LOCAL_WIN/archive\AbdomenCT\001812.jpeg and D:/ML_LOCAL_WIN/archive\AbdomenCT\001802.jpeg
+Duplicate: D:/ML_LOCAL_WIN/archive\AbdomenCT\001842.jpeg and D:/ML_LOCAL_WIN/archive\AbdomenCT\001830.jpeg
+Duplicate: D:/ML_LOCAL_WIN/archive\AbdomenCT\001844.jpeg and D:/ML_LOCAL_WIN/archive\AbdomenCT\001835.jpeg
+Duplicate: D:/ML_LOCAL_WIN/archive\AbdomenCT\001852.jpeg and D:/ML_LOCAL_WIN/archive\AbdomenCT\001840.jpeg
+Duplicate: D:/ML_LOCAL_WIN/archive\AbdomenCT\001859.jpeg and D:/ML_LOCAL_WIN/archive\AbdomenCT\001845.jpeg
+Duplicate: D:/ML_LOCAL_WIN/archive\AbdomenCT\001864.jpeg and D:/ML_LOCAL_WIN/archive\AbdomenCT\001823.jpeg
+Duplicate: D:/ML_LOCAL_WIN/archive\AbdomenCT\001865.jpeg and D:/ML_LOCAL_WIN/archive\AbdomenCT\001846.jpeg
+Duplicate: D:/ML_LOCAL_WIN/archive\AbdomenCT\001866.jpeg and D:/ML_LOCAL_WIN/archive\AbdomenCT\001854.jpeg
+Duplicate: D:/ML_LOCAL_WIN/archive\AbdomenCT\001869.jpeg and D:/ML_LOCAL_WIN/archive\AbdomenCT\001848.jpeg
+Duplicate: D:/ML_LOCAL_WIN/archive\AbdomenCT\001872.jpeg and D:/ML_LOCAL_WIN/archive\AbdomenCT\001867.jpeg
+Duplicate: D:/ML_LOCAL_WIN/archive\AbdomenCT\001881.jpeg and D:/ML_LOCAL_WIN/archive\AbdomenCT\001850.jpeg
+Duplicate: D:/ML_LOCAL_WIN/archive\AbdomenCT\001882.jpeg and D:/ML_LOCAL_WIN/archive\AbdomenCT\001871.jpeg
+Duplicate: D:/ML_LOCAL_WIN/archive\AbdomenCT\001892.jpeg and D:/ML_LOCAL_WIN/archive\AbdomenCT\001856.jpeg
+Duplicate: D:/ML_LOCAL_WIN/archive\AbdomenCT\001893.jpeg and D:/ML_LOCAL_WIN/archive\AbdomenCT\001829.jpeg
+Duplicate: D:/ML_LOCAL_WIN/archive\AbdomenCT\001895.jpeg and D:/ML_LOCAL_WIN/archive\AbdomenCT\001874.jpeg
+Duplicate: D:/ML_LOCAL_WIN/archive\AbdomenCT\001901.jpeg and D:/ML_LOCAL_WIN/archive\AbdomenCT\001862.jpeg
+Duplicate: D:/ML_LOCAL_WIN/archive\AbdomenCT\001903.jpeg and D:/ML_LOCAL_WIN/archive\AbdomenCT\001884.jpeg
+Duplicate: D:/ML_LOCAL_WIN/archive\AbdomenCT\001906.jpeg and D:/ML_LOCAL_WIN/archive\AbdomenCT\001905.jpeg
+Duplicate: D:/ML_LOCAL_WIN/archive\AbdomenCT\001909.jpeg and D:/ML_LOCAL_WIN/archive\AbdomenCT\001849.jpeg
+Duplicate: D:/ML_LOCAL_WIN/archive\AbdomenCT\001915.jpeg and D:/ML_LOCAL_WIN/archive\AbdomenCT\001911.jpeg
+Duplicate: D:/ML_LOCAL_WIN/archive\AbdomenCT\001916.jpeg and D:/ML_LOCAL_WIN/archive\AbdomenCT\001896.jpeg
+Duplicate: D:/ML_LOCAL_WIN/archive\AbdomenCT\001920.jpeg and D:/ML_LOCAL_WIN/archive\AbdomenCT\001814.jpeg
+Duplicate: D:/ML_LOCAL_WIN/archive\AbdomenCT\001928.jpeg and D:/ML_LOCAL_WIN/archive\AbdomenCT\001837.jpeg
+Duplicate: D:/ML_LOCAL_WIN/archive\AbdomenCT\001931.jpeg and D:/ML_LOCAL_WIN/archive\AbdomenCT\001843.jpeg
+Duplicate: D:/ML_LOCAL_WIN/archive\AbdomenCT\001933.jpeg and D:/ML_LOCAL_WIN/archive\AbdomenCT\001887.jpeg
+Duplicate: D:/ML_LOCAL_WIN/archive\AbdomenCT\001946.jpeg and D:/ML_LOCAL_WIN/archive\AbdomenCT\001880.jpeg
+Duplicate: D:/ML_LOCAL_WIN/archive\AbdomenCT\001947.jpeg and D:/ML_LOCAL_WIN/archive\AbdomenCT\001822.jpeg
+Duplicate: D:/ML_LOCAL_WIN/archive\AbdomenCT\001948.jpeg and D:/ML_LOCAL_WIN/archive\AbdomenCT\001943.jpeg
+Duplicate: D:/ML_LOCAL_WIN/archive\AbdomenCT\001949.jpeg and D:/ML_LOCAL_WIN/archive\AbdomenCT\001894.jpeg
+Duplicate: D:/ML_LOCAL_WIN/archive\AbdomenCT\001953.jpeg and D:/ML_LOCAL_WIN/archive\AbdomenCT\001873.jpeg
+Duplicate: D:/ML_LOCAL_WIN/archive\AbdomenCT\001954.jpeg and D:/ML_LOCAL_WIN/archive\AbdomenCT\001929.jpeg
+Duplicate: D:/ML_LOCAL_WIN/archive\AbdomenCT\001957.jpeg and D:/ML_LOCAL_WIN/archive\AbdomenCT\001922.jpeg
+Duplicate: D:/ML_LOCAL_WIN/archive\AbdomenCT\001958.jpeg and D:/ML_LOCAL_WIN/archive\AbdomenCT\001860.jpeg
+Duplicate: D:/ML_LOCAL_WIN/archive\AbdomenCT\001961.jpeg and D:/ML_LOCAL_WIN/archive\AbdomenCT\001897.jpeg
+Duplicate: D:/ML_LOCAL_WIN/archive\AbdomenCT\001964.jpeg and D:/ML_LOCAL_WIN/archive\AbdomenCT\001877.jpeg
+Duplicate: D:/ML_LOCAL_WIN/archive\AbdomenCT\001966.jpeg and D:/ML_LOCAL_WIN/archive\AbdomenCT\001826.jpeg
+Duplicate: D:/ML_LOCAL_WIN/archive\AbdomenCT\001969.jpeg and D:/ML_LOCAL_WIN/archive\AbdomenCT\001939.jpeg
+Duplicate: D:/ML_LOCAL_WIN/archive\AbdomenCT\001971.jpeg and D:/ML_LOCAL_WIN/archive\AbdomenCT\001831.jpeg
+Duplicate: D:/ML_LOCAL_WIN/archive\AbdomenCT\001974.jpeg and D:/ML_LOCAL_WIN/archive\AbdomenCT\001817.jpeg
+Duplicate: D:/ML_LOCAL_WIN/archive\AbdomenCT\001975.jpeg and D:/ML_LOCAL_WIN/archive\AbdomenCT\001919.jpeg
+Duplicate: D:/ML_LOCAL_WIN/archive\AbdomenCT\001977.jpeg and D:/ML_LOCAL_WIN/archive\AbdomenCT\001938.jpeg
+Duplicate: D:/ML_LOCAL_WIN/archive\AbdomenCT\001978.jpeg and D:/ML_LOCAL_WIN/archive\AbdomenCT\001834.jpeg
+Duplicate: D:/ML_LOCAL_WIN/archive\AbdomenCT\001980.jpeg and D:/ML_LOCAL_WIN/archive\AbdomenCT\001836.jpeg
+Duplicate: D:/ML_LOCAL_WIN/archive\AbdomenCT\001981.jpeg and D:/ML_LOCAL_WIN/archive\AbdomenCT\001970.jpeg
+Duplicate: D:/ML_LOCAL_WIN/archive\AbdomenCT\001982.jpeg and D:/ML_LOCAL_WIN/archive\AbdomenCT\001875.jpeg
+Duplicate: D:/ML_LOCAL_WIN/archive\AbdomenCT\001988.jpeg and D:/ML_LOCAL_WIN/archive\AbdomenCT\001861.jpeg
+Duplicate: D:/ML_LOCAL_WIN/archive\AbdomenCT\001989.jpeg and D:/ML_LOCAL_WIN/archive\AbdomenCT\001914.jpeg
+Duplicate: D:/ML_LOCAL_WIN/archive\AbdomenCT\001991.jpeg and D:/ML_LOCAL_WIN/archive\AbdomenCT\001976.jpeg
+Duplicate: D:/ML_LOCAL_WIN/archive\AbdomenCT\001997.jpeg and D:/ML_LOCAL_WIN/archive\AbdomenCT\001944.jpeg
+Duplicate: D:/ML_LOCAL_WIN/archive\AbdomenCT\001998.jpeg and D:/ML_LOCAL_WIN/archive\AbdomenCT\001925.jpeg
+Duplicate: D:/ML_LOCAL_WIN/archive\AbdomenCT\001999.jpeg and D:/ML_LOCAL_WIN/archive\AbdomenCT\001942.jpeg
+Duplicate: D:/ML_LOCAL_WIN/archive\AbdomenCT\002002.jpeg and D:/ML_LOCAL_WIN/archive\AbdomenCT\001926.jpeg
+Duplicate: D:/ML_LOCAL_WIN/archive\AbdomenCT\002005.jpeg and D:/ML_LOCAL_WIN/archive\AbdomenCT\001876.jpeg
+Duplicate: D:/ML_LOCAL_WIN/archive\AbdomenCT\002006.jpeg and D:/ML_LOCAL_WIN/archive\AbdomenCT\001959.jpeg
+Duplicate: D:/ML_LOCAL_WIN/archive\AbdomenCT\002010.jpeg and D:/ML_LOCAL_WIN/archive\AbdomenCT\001937.jpeg
+Duplicate: D:/ML_LOCAL_WIN/archive\AbdomenCT\002013.jpeg and D:/ML_LOCAL_WIN/archive\AbdomenCT\001941.jpeg
+Duplicate: D:/ML_LOCAL_WIN/archive\AbdomenCT\002014.jpeg and D:/ML_LOCAL_WIN/archive\AbdomenCT\001990.jpeg
+Duplicate: D:/ML_LOCAL_WIN/archive\AbdomenCT\002016.jpeg and D:/ML_LOCAL_WIN/archive\AbdomenCT\001960.jpeg
+Duplicate: D:/ML_LOCAL_WIN/archive\AbdomenCT\002017.jpeg and D:/ML_LOCAL_WIN/archive\AbdomenCT\001878.jpeg
+Duplicate: D:/ML_LOCAL_WIN/archive\AbdomenCT\002019.jpeg and D:/ML_LOCAL_WIN/archive\AbdomenCT\001819.jpeg
+Duplicate: D:/ML_LOCAL_WIN/archive\AbdomenCT\002020.jpeg and D:/ML_LOCAL_WIN/archive\AbdomenCT\001815.jpeg
+Duplicate: D:/ML_LOCAL_WIN/archive\AbdomenCT\002021.jpeg and D:/ML_LOCAL_WIN/archive\AbdomenCT\001832.jpeg
+Duplicate: D:/ML_LOCAL_WIN/archive\AbdomenCT\002025.jpeg and D:/ML_LOCAL_WIN/archive\AbdomenCT\001902.jpeg
+Duplicate: D:/ML_LOCAL_WIN/archive\AbdomenCT\002026.jpeg and D:/ML_LOCAL_WIN/archive\AbdomenCT\001908.jpeg
+Duplicate: D:/ML_LOCAL_WIN/archive\AbdomenCT\002028.jpeg and D:/ML_LOCAL_WIN/archive\AbdomenCT\001935.jpeg
+Duplicate: D:/ML_LOCAL_WIN/archive\AbdomenCT\002029.jpeg and D:/ML_LOCAL_WIN/archive\AbdomenCT\001888.jpeg
+Duplicate: D:/ML_LOCAL_WIN/archive\AbdomenCT\002032.jpeg and D:/ML_LOCAL_WIN/archive\AbdomenCT\001890.jpeg
+Duplicate: D:/ML_LOCAL_WIN/archive\AbdomenCT\002033.jpeg and D:/ML_LOCAL_WIN/archive\AbdomenCT\001898.jpeg
+Duplicate: D:/ML_LOCAL_WIN/archive\AbdomenCT\002035.jpeg and D:/ML_LOCAL_WIN/archive\AbdomenCT\001968.jpeg
+Duplicate: D:/ML_LOCAL_WIN/archive\AbdomenCT\002037.jpeg and D:/ML_LOCAL_WIN/archive\AbdomenCT\001923.jpeg
+Duplicate: D:/ML_LOCAL_WIN/archive\AbdomenCT\002038.jpeg and D:/ML_LOCAL_WIN/archive\AbdomenCT\001932.jpeg
+Duplicate: D:/ML_LOCAL_WIN/archive\AbdomenCT\002041.jpeg and D:/ML_LOCAL_WIN/archive\AbdomenCT\001930.jpeg
+Duplicate: D:/ML_LOCAL_WIN/archive\AbdomenCT\002042.jpeg and D:/ML_LOCAL_WIN/archive\AbdomenCT\001996.jpeg
+Duplicate: D:/ML_LOCAL_WIN/archive\AbdomenCT\002043.jpeg and D:/ML_LOCAL_WIN/archive\AbdomenCT\001921.jpeg
+Duplicate: D:/ML_LOCAL_WIN/archive\AbdomenCT\002044.jpeg and D:/ML_LOCAL_WIN/archive\AbdomenCT\001917.jpeg
+Duplicate: D:/ML_LOCAL_WIN/archive\AbdomenCT\002046.jpeg and D:/ML_LOCAL_WIN/archive\AbdomenCT\001828.jpeg
+Duplicate: D:/ML_LOCAL_WIN/archive\AbdomenCT\002047.jpeg and D:/ML_LOCAL_WIN/archive\AbdomenCT\001899.jpeg
+Duplicate: D:/ML_LOCAL_WIN/archive\AbdomenCT\002048.jpeg and D:/ML_LOCAL_WIN/archive\AbdomenCT\001841.jpeg
+Duplicate: D:/ML_LOCAL_WIN/archive\AbdomenCT\002049.jpeg and D:/ML_LOCAL_WIN/archive\AbdomenCT\001984.jpeg
+Duplicate: D:/ML_LOCAL_WIN/archive\AbdomenCT\002051.jpeg and D:/ML_LOCAL_WIN/archive\AbdomenCT\002022.jpeg
+Duplicate: D:/ML_LOCAL_WIN/archive\AbdomenCT\002052.jpeg and D:/ML_LOCAL_WIN/archive\AbdomenCT\001818.jpeg
+Duplicate: D:/ML_LOCAL_WIN/archive\AbdomenCT\002053.jpeg and D:/ML_LOCAL_WIN/archive\AbdomenCT\002034.jpeg
+Duplicate: D:/ML_LOCAL_WIN/archive\AbdomenCT\002054.jpeg and D:/ML_LOCAL_WIN/archive\AbdomenCT\001951.jpeg
+Duplicate: D:/ML_LOCAL_WIN/archive\AbdomenCT\002056.jpeg and D:/ML_LOCAL_WIN/archive\AbdomenCT\001889.jpeg
+Duplicate: D:/ML_LOCAL_WIN/archive\AbdomenCT\002058.jpeg and D:/ML_LOCAL_WIN/archive\AbdomenCT\002036.jpeg
+Duplicate: D:/ML_LOCAL_WIN/archive\AbdomenCT\002059.jpeg and D:/ML_LOCAL_WIN/archive\AbdomenCT\002018.jpeg
+Duplicate: D:/ML_LOCAL_WIN/archive\AbdomenCT\002060.jpeg and D:/ML_LOCAL_WIN/archive\AbdomenCT\001858.jpeg
+Duplicate: D:/ML_LOCAL_WIN/archive\AbdomenCT\002061.jpeg and D:/ML_LOCAL_WIN/archive\AbdomenCT\001857.jpeg
+Duplicate: D:/ML_LOCAL_WIN/archive\AbdomenCT\002062.jpeg and D:/ML_LOCAL_WIN/archive\AbdomenCT\002024.jpeg
+Duplicate: D:/ML_LOCAL_WIN/archive\AbdomenCT\002063.jpeg and D:/ML_LOCAL_WIN/archive\AbdomenCT\001821.jpeg
+Duplicate: D:/ML_LOCAL_WIN/archive\AbdomenCT\002064.jpeg and D:/ML_LOCAL_WIN/archive\AbdomenCT\002004.jpeg
+Duplicate: D:/ML_LOCAL_WIN/archive\AbdomenCT\002065.jpeg and D:/ML_LOCAL_WIN/archive\AbdomenCT\002057.jpeg
+Duplicate: D:/ML_LOCAL_WIN/archive\AbdomenCT\002066.jpeg and D:/ML_LOCAL_WIN/archive\AbdomenCT\001967.jpeg
+Duplicate: D:/ML_LOCAL_WIN/archive\AbdomenCT\002067.jpeg and D:/ML_LOCAL_WIN/archive\AbdomenCT\001936.jpeg
+Duplicate: D:/ML_LOCAL_WIN/archive\AbdomenCT\002069.jpeg and D:/ML_LOCAL_WIN/archive\AbdomenCT\001927.jpeg
+Duplicate: D:/ML_LOCAL_WIN/archive\AbdomenCT\002070.jpeg and D:/ML_LOCAL_WIN/archive\AbdomenCT\001965.jpeg
+Duplicate: D:/ML_LOCAL_WIN/archive\AbdomenCT\002072.jpeg and D:/ML_LOCAL_WIN/archive\AbdomenCT\001904.jpeg
+Duplicate: D:/ML_LOCAL_WIN/archive\AbdomenCT\002073.jpeg and D:/ML_LOCAL_WIN/archive\AbdomenCT\001816.jpeg
+Duplicate: D:/ML_LOCAL_WIN/archive\AbdomenCT\002074.jpeg and D:/ML_LOCAL_WIN/archive\AbdomenCT\001825.jpeg
+Duplicate: D:/ML_LOCAL_WIN/archive\AbdomenCT\002075.jpeg and D:/ML_LOCAL_WIN/archive\AbdomenCT\001945.jpeg
+Duplicate: D:/ML_LOCAL_WIN/archive\AbdomenCT\002076.jpeg and D:/ML_LOCAL_WIN/archive\AbdomenCT\001883.jpeg
+Duplicate: D:/ML_LOCAL_WIN/archive\AbdomenCT\002079.jpeg and D:/ML_LOCAL_WIN/archive\AbdomenCT\001962.jpeg
+Duplicate: D:/ML_LOCAL_WIN/archive\AbdomenCT\002080.jpeg and D:/ML_LOCAL_WIN/archive\AbdomenCT\002000.jpeg
+Duplicate: D:/ML_LOCAL_WIN/archive\AbdomenCT\002082.jpeg and D:/ML_LOCAL_WIN/archive\AbdomenCT\002081.jpeg
+Duplicate: D:/ML_LOCAL_WIN/archive\AbdomenCT\002084.jpeg and D:/ML_LOCAL_WIN/archive\AbdomenCT\001924.jpeg
+Duplicate: D:/ML_LOCAL_WIN/archive\AbdomenCT\002086.jpeg and D:/ML_LOCAL_WIN/archive\AbdomenCT\001995.jpeg
+Duplicate: D:/ML_LOCAL_WIN/archive\AbdomenCT\002087.jpeg and D:/ML_LOCAL_WIN/archive\AbdomenCT\002009.jpeg
+Duplicate: D:/ML_LOCAL_WIN/archive\AbdomenCT\002088.jpeg and D:/ML_LOCAL_WIN/archive\AbdomenCT\002071.jpeg
+Duplicate: D:/ML_LOCAL_WIN/archive\AbdomenCT\002089.jpeg and D:/ML_LOCAL_WIN/archive\AbdomenCT\002015.jpeg
+Duplicate: D:/ML_LOCAL_WIN/archive\AbdomenCT\002090.jpeg and D:/ML_LOCAL_WIN/archive\AbdomenCT\001885.jpeg
+Duplicate: D:/ML_LOCAL_WIN/archive\AbdomenCT\002091.jpeg and D:/ML_LOCAL_WIN/archive\AbdomenCT\001987.jpeg
+Duplicate: D:/ML_LOCAL_WIN/archive\AbdomenCT\002092.jpeg and D:/ML_LOCAL_WIN/archive\AbdomenCT\002055.jpeg
+Duplicate: D:/ML_LOCAL_WIN/archive\AbdomenCT\002093.jpeg and D:/ML_LOCAL_WIN/archive\AbdomenCT\001824.jpeg
+Duplicate: D:/ML_LOCAL_WIN/archive\AbdomenCT\002094.jpeg and D:/ML_LOCAL_WIN/archive\AbdomenCT\001851.jpeg
+Duplicate: D:/ML_LOCAL_WIN/archive\AbdomenCT\002095.jpeg and D:/ML_LOCAL_WIN/archive\AbdomenCT\001955.jpeg
+Duplicate: D:/ML_LOCAL_WIN/archive\AbdomenCT\002096.jpeg and D:/ML_LOCAL_WIN/archive\AbdomenCT\001934.jpeg
+Duplicate: D:/ML_LOCAL_WIN/archive\AbdomenCT\002098.jpeg and D:/ML_LOCAL_WIN/archive\AbdomenCT\002007.jpeg
+Duplicate: D:/ML_LOCAL_WIN/archive\AbdomenCT\002099.jpeg and D:/ML_LOCAL_WIN/archive\AbdomenCT\001838.jpeg
+Duplicate: D:/ML_LOCAL_WIN/archive\AbdomenCT\002100.jpeg and D:/ML_LOCAL_WIN/archive\AbdomenCT\001820.jpeg
+Duplicate: D:/ML_LOCAL_WIN/archive\AbdomenCT\002102.jpeg and D:/ML_LOCAL_WIN/archive\AbdomenCT\002031.jpeg
+Duplicate: D:/ML_LOCAL_WIN/archive\AbdomenCT\002103.jpeg and D:/ML_LOCAL_WIN/archive\AbdomenCT\001900.jpeg
+Duplicate: D:/ML_LOCAL_WIN/archive\AbdomenCT\002104.jpeg and D:/ML_LOCAL_WIN/archive\AbdomenCT\001986.jpeg
+Duplicate: D:/ML_LOCAL_WIN/archive\AbdomenCT\002105.jpeg and D:/ML_LOCAL_WIN/archive\AbdomenCT\002068.jpeg
+Duplicate: D:/ML_LOCAL_WIN/archive\AbdomenCT\002108.jpeg and D:/ML_LOCAL_WIN/archive\AbdomenCT\001913.jpeg
+Duplicate: D:/ML_LOCAL_WIN/archive\AbdomenCT\002109.jpeg and D:/ML_LOCAL_WIN/archive\AbdomenCT\001952.jpeg
+Duplicate: D:/ML_LOCAL_WIN/archive\AbdomenCT\002110.jpeg and D:/ML_LOCAL_WIN/archive\AbdomenCT\001956.jpeg
+Duplicate: D:/ML_LOCAL_WIN/archive\AbdomenCT\002111.jpeg and D:/ML_LOCAL_WIN/archive\AbdomenCT\001870.jpeg
+Duplicate: D:/ML_LOCAL_WIN/archive\AbdomenCT\002112.jpeg and D:/ML_LOCAL_WIN/archive\AbdomenCT\001868.jpeg
+Duplicate: D:/ML_LOCAL_WIN/archive\AbdomenCT\002113.jpeg and D:/ML_LOCAL_WIN/archive\AbdomenCT\001993.jpeg
+Duplicate: D:/ML_LOCAL_WIN/archive\AbdomenCT\002114.jpeg and D:/ML_LOCAL_WIN/archive\AbdomenCT\002085.jpeg
+Duplicate: D:/ML_LOCAL_WIN/archive\AbdomenCT\002115.jpeg and D:/ML_LOCAL_WIN/archive\AbdomenCT\002027.jpeg
+Duplicate: D:/ML_LOCAL_WIN/archive\AbdomenCT\002117.jpeg and D:/ML_LOCAL_WIN/archive\AbdomenCT\001910.jpeg
+Duplicate: D:/ML_LOCAL_WIN/archive\AbdomenCT\002118.jpeg and D:/ML_LOCAL_WIN/archive\AbdomenCT\001847.jpeg
+Duplicate: D:/ML_LOCAL_WIN/archive\AbdomenCT\002120.jpeg and D:/ML_LOCAL_WIN/archive\AbdomenCT\001994.jpeg
+Duplicate: D:/ML_LOCAL_WIN/archive\AbdomenCT\002121.jpeg and D:/ML_LOCAL_WIN/archive\AbdomenCT\002039.jpeg
+Duplicate: D:/ML_LOCAL_WIN/archive\AbdomenCT\002123.jpeg and D:/ML_LOCAL_WIN/archive\AbdomenCT\002008.jpeg
+Duplicate: D:/ML_LOCAL_WIN/archive\AbdomenCT\002124.jpeg and D:/ML_LOCAL_WIN/archive\AbdomenCT\002078.jpeg
+Duplicate: D:/ML_LOCAL_WIN/archive\AbdomenCT\002125.jpeg and D:/ML_LOCAL_WIN/archive\AbdomenCT\002001.jpeg
+Duplicate: D:/ML_LOCAL_WIN/archive\AbdomenCT\002126.jpeg and D:/ML_LOCAL_WIN/archive\AbdomenCT\001918.jpeg
+Duplicate: D:/ML_LOCAL_WIN/archive\AbdomenCT\002127.jpeg and D:/ML_LOCAL_WIN/archive\AbdomenCT\001985.jpeg
+Duplicate: D:/ML_LOCAL_WIN/archive\AbdomenCT\002128.jpeg and D:/ML_LOCAL_WIN/archive\AbdomenCT\001950.jpeg
+Duplicate: D:/ML_LOCAL_WIN/archive\AbdomenCT\002130.jpeg and D:/ML_LOCAL_WIN/archive\AbdomenCT\001827.jpeg
+Duplicate: D:/ML_LOCAL_WIN/archive\AbdomenCT\002131.jpeg and D:/ML_LOCAL_WIN/archive\AbdomenCT\001973.jpeg
+Duplicate: D:/ML_LOCAL_WIN/archive\AbdomenCT\002132.jpeg and D:/ML_LOCAL_WIN/archive\AbdomenCT\001912.jpeg
+Duplicate: D:/ML_LOCAL_WIN/archive\AbdomenCT\002133.jpeg and D:/ML_LOCAL_WIN/archive\AbdomenCT\001886.jpeg
+Duplicate: D:/ML_LOCAL_WIN/archive\AbdomenCT\002134.jpeg and D:/ML_LOCAL_WIN/archive\AbdomenCT\002011.jpeg
+Duplicate: D:/ML_LOCAL_WIN/archive\AbdomenCT\002135.jpeg and D:/ML_LOCAL_WIN/archive\AbdomenCT\002030.jpeg
+Duplicate: D:/ML_LOCAL_WIN/archive\AbdomenCT\002136.jpeg and D:/ML_LOCAL_WIN/archive\AbdomenCT\002106.jpeg
+Duplicate: D:/ML_LOCAL_WIN/archive\AbdomenCT\002137.jpeg and D:/ML_LOCAL_WIN/archive\AbdomenCT\001979.jpeg
+Duplicate: D:/ML_LOCAL_WIN/archive\AbdomenCT\002138.jpeg and D:/ML_LOCAL_WIN/archive\AbdomenCT\002101.jpeg
+Duplicate: D:/ML_LOCAL_WIN/archive\AbdomenCT\002139.jpeg and D:/ML_LOCAL_WIN/archive\AbdomenCT\002129.jpeg
+Duplicate: D:/ML_LOCAL_WIN/archive\AbdomenCT\002140.jpeg and D:/ML_LOCAL_WIN/archive\AbdomenCT\001907.jpeg
+Duplicate: D:/ML_LOCAL_WIN/archive\AbdomenCT\002141.jpeg and D:/ML_LOCAL_WIN/archive\AbdomenCT\002050.jpeg
+Duplicate: D:/ML_LOCAL_WIN/archive\AbdomenCT\002142.jpeg and D:/ML_LOCAL_WIN/archive\AbdomenCT\001963.jpeg
+Duplicate: D:/ML_LOCAL_WIN/archive\AbdomenCT\002143.jpeg and D:/ML_LOCAL_WIN/archive\AbdomenCT\002122.jpeg
+Duplicate: D:/ML_LOCAL_WIN/archive\AbdomenCT\002144.jpeg and D:/ML_LOCAL_WIN/archive\AbdomenCT\001972.jpeg
+Duplicate: D:/ML_LOCAL_WIN/archive\AbdomenCT\002145.jpeg and D:/ML_LOCAL_WIN/archive\AbdomenCT\002116.jpeg
+Duplicate: D:/ML_LOCAL_WIN/archive\AbdomenCT\002146.jpeg and D:/ML_LOCAL_WIN/archive\AbdomenCT\001983.jpeg
+Duplicate: D:/ML_LOCAL_WIN/archive\AbdomenCT\002147.jpeg and D:/ML_LOCAL_WIN/archive\AbdomenCT\002003.jpeg
+Duplicate: D:/ML_LOCAL_WIN/archive\AbdomenCT\002148.jpeg and D:/ML_LOCAL_WIN/archive\AbdomenCT\001839.jpeg
+Duplicate: D:/ML_LOCAL_WIN/archive\AbdomenCT\002149.jpeg and D:/ML_LOCAL_WIN/archive\AbdomenCT\002045.jpeg
+Duplicate: D:/ML_LOCAL_WIN/archive\AbdomenCT\002150.jpeg and D:/ML_LOCAL_WIN/archive\AbdomenCT\001855.jpeg
+Duplicate: D:/ML_LOCAL_WIN/archive\AbdomenCT\002151.jpeg and D:/ML_LOCAL_WIN/archive\AbdomenCT\002083.jpeg
+Duplicate: D:/ML_LOCAL_WIN/archive\AbdomenCT\002152.jpeg and D:/ML_LOCAL_WIN/archive\AbdomenCT\001940.jpeg
+Duplicate: D:/ML_LOCAL_WIN/archive\AbdomenCT\002153.jpeg and D:/ML_LOCAL_WIN/archive\AbdomenCT\002012.jpeg
+Duplicate: D:/ML_LOCAL_WIN/archive\AbdomenCT\002154.jpeg and D:/ML_LOCAL_WIN/archive\AbdomenCT\002107.jpeg
+Duplicate: D:/ML_LOCAL_WIN/archive\AbdomenCT\002155.jpeg and D:/ML_LOCAL_WIN/archive\AbdomenCT\002097.jpeg
+Duplicate: D:/ML_LOCAL_WIN/archive\AbdomenCT\002157.jpeg and D:/ML_LOCAL_WIN/archive\AbdomenCT\001863.jpeg
+Duplicate: D:/ML_LOCAL_WIN/archive\AbdomenCT\002158.jpeg and D:/ML_LOCAL_WIN/archive\AbdomenCT\001891.jpeg
+Duplicate: D:/ML_LOCAL_WIN/archive\AbdomenCT\002159.jpeg and D:/ML_LOCAL_WIN/archive\AbdomenCT\002023.jpeg
+Duplicate: D:/ML_LOCAL_WIN/archive\AbdomenCT\002160.jpeg and D:/ML_LOCAL_WIN/archive\AbdomenCT\002040.jpeg
+Duplicate: D:/ML_LOCAL_WIN/archive\AbdomenCT\002161.jpeg and D:/ML_LOCAL_WIN/archive\AbdomenCT\002156.jpeg
+Duplicate: D:/ML_LOCAL_WIN/archive\AbdomenCT\002162.jpeg and D:/ML_LOCAL_WIN/archive\AbdomenCT\002119.jpeg
+Duplicate: D:/ML_LOCAL_WIN/archive\AbdomenCT\002163.jpeg and D:/ML_LOCAL_WIN/archive\AbdomenCT\001853.jpeg
+Duplicate: D:/ML_LOCAL_WIN/archive\AbdomenCT\002164.jpeg and D:/ML_LOCAL_WIN/archive\AbdomenCT\002077.jpeg
+Duplicate: D:/ML_LOCAL_WIN/archive\AbdomenCT\002165.jpeg and D:/ML_LOCAL_WIN/archive\AbdomenCT\001813.jpeg
+Duplicate: D:/ML_LOCAL_WIN/archive\AbdomenCT\002166.jpeg and D:/ML_LOCAL_WIN/archive\AbdomenCT\001992.jpeg
+Duplicate: D:/ML_LOCAL_WIN/archive\AbdomenCT\002167.jpeg and D:/ML_LOCAL_WIN/archive\AbdomenCT\001879.jpeg
+Duplicate: D:/ML_LOCAL_WIN/archive\AbdomenCT\002243.jpeg and D:/ML_LOCAL_WIN/archive\AbdomenCT\002175.jpeg
+Duplicate: D:/ML_LOCAL_WIN/archive\AbdomenCT\006627.jpeg and D:/ML_LOCAL_WIN/archive\AbdomenCT\006521.jpeg
+Duplicate: D:/ML_LOCAL_WIN/archive\AbdomenCT\006631.jpeg and D:/ML_LOCAL_WIN/archive\AbdomenCT\006423.jpeg
+Duplicate: D:/ML_LOCAL_WIN/archive\AbdomenCT\006636.jpeg and D:/ML_LOCAL_WIN/archive\AbdomenCT\006421.jpeg
+Duplicate: D:/ML_LOCAL_WIN/archive\AbdomenCT\006639.jpeg and D:/ML_LOCAL_WIN/archive\AbdomenCT\006485.jpeg
+Duplicate: D:/ML_LOCAL_WIN/archive\AbdomenCT\006653.jpeg and D:/ML_LOCAL_WIN/archive\AbdomenCT\006410.jpeg
+Duplicate: D:/ML_LOCAL_WIN/archive\AbdomenCT\006661.jpeg and D:/ML_LOCAL_WIN/archive\AbdomenCT\006402.jpeg
+Duplicate: D:/ML_LOCAL_WIN/archive\AbdomenCT\006662.jpeg and D:/ML_LOCAL_WIN/archive\AbdomenCT\006388.jpeg
+Duplicate: D:/ML_LOCAL_WIN/archive\AbdomenCT\006677.jpeg and D:/ML_LOCAL_WIN/archive\AbdomenCT\006450.jpeg
+Duplicate: D:/ML_LOCAL_WIN/archive\AbdomenCT\006688.jpeg and D:/ML_LOCAL_WIN/archive\AbdomenCT\006549.jpeg
+Duplicate: D:/ML_LOCAL_WIN/archive\AbdomenCT\006691.jpeg and D:/ML_LOCAL_WIN/archive\AbdomenCT\006387.jpeg
+Duplicate: D:/ML_LOCAL_WIN/archive\AbdomenCT\006693.jpeg and D:/ML_LOCAL_WIN/archive\AbdomenCT\006493.jpeg
+Duplicate: D:/ML_LOCAL_WIN/archive\AbdomenCT\006700.jpeg and D:/ML_LOCAL_WIN/archive\AbdomenCT\006504.jpeg
+Duplicate: D:/ML_LOCAL_WIN/archive\AbdomenCT\006712.jpeg and D:/ML_LOCAL_WIN/archive\AbdomenCT\006438.jpeg
+Duplicate: D:/ML_LOCAL_WIN/archive\AbdomenCT\006724.jpeg and D:/ML_LOCAL_WIN/archive\AbdomenCT\006548.jpeg
+Duplicate: D:/ML_LOCAL_WIN/archive\AbdomenCT\006726.jpeg and D:/ML_LOCAL_WIN/archive\AbdomenCT\006426.jpeg
+Duplicate: D:/ML_LOCAL_WIN/archive\AbdomenCT\006734.jpeg and D:/ML_LOCAL_WIN/archive\AbdomenCT\006418.jpeg
+Duplicate: D:/ML_LOCAL_WIN/archive\AbdomenCT\006744.jpeg and D:/ML_LOCAL_WIN/archive\AbdomenCT\006494.jpeg
+Duplicate: D:/ML_LOCAL_WIN/archive\AbdomenCT\006748.jpeg and D:/ML_LOCAL_WIN/archive\AbdomenCT\006451.jpeg
+Duplicate: D:/ML_LOCAL_WIN/archive\AbdomenCT\006755.jpeg and D:/ML_LOCAL_WIN/archive\AbdomenCT\006474.jpeg
+Duplicate: D:/ML_LOCAL_WIN/archive\AbdomenCT\006769.jpeg and D:/ML_LOCAL_WIN/archive\AbdomenCT\006380.jpeg
+Duplicate: D:/ML_LOCAL_WIN/archive\AbdomenCT\006776.jpeg and D:/ML_LOCAL_WIN/archive\AbdomenCT\006416.jpeg
+Duplicate: D:/ML_LOCAL_WIN/archive\AbdomenCT\006780.jpeg and D:/ML_LOCAL_WIN/archive\AbdomenCT\006516.jpeg
+Duplicate: D:/ML_LOCAL_WIN/archive\AbdomenCT\006781.jpeg and D:/ML_LOCAL_WIN/archive\AbdomenCT\006443.jpeg
+Duplicate: D:/ML_LOCAL_WIN/archive\AbdomenCT\006788.jpeg and D:/ML_LOCAL_WIN/archive\AbdomenCT\006469.jpeg
+Duplicate: D:/ML_LOCAL_WIN/archive\AbdomenCT\006806.jpeg and D:/ML_LOCAL_WIN/archive\AbdomenCT\006389.jpeg
+Duplicate: D:/ML_LOCAL_WIN/archive\AbdomenCT\006815.jpeg and D:/ML_LOCAL_WIN/archive\AbdomenCT\006480.jpeg
+Duplicate: D:/ML_LOCAL_WIN/archive\AbdomenCT\006817.jpeg and D:/ML_LOCAL_WIN/archive\AbdomenCT\006523.jpeg
+Duplicate: D:/ML_LOCAL_WIN/archive\AbdomenCT\006824.jpeg and D:/ML_LOCAL_WIN/archive\AbdomenCT\006454.jpeg
+Duplicate: D:/ML_LOCAL_WIN/archive\AbdomenCT\006826.jpeg and D:/ML_LOCAL_WIN/archive\AbdomenCT\006440.jpeg
+Duplicate: D:/ML_LOCAL_WIN/archive\AbdomenCT\006832.jpeg and D:/ML_LOCAL_WIN/archive\AbdomenCT\006439.jpeg
+Duplicate: D:/ML_LOCAL_WIN/archive\AbdomenCT\006839.jpeg and D:/ML_LOCAL_WIN/archive\AbdomenCT\006373.jpeg
+Duplicate: D:/ML_LOCAL_WIN/archive\AbdomenCT\006844.jpeg and D:/ML_LOCAL_WIN/archive\AbdomenCT\006420.jpeg
+Duplicate: D:/ML_LOCAL_WIN/archive\AbdomenCT\006849.jpeg and D:/ML_LOCAL_WIN/archive\AbdomenCT\006430.jpeg
+Duplicate: D:/ML_LOCAL_WIN/archive\AbdomenCT\006853.jpeg and D:/ML_LOCAL_WIN/archive\AbdomenCT\006370.jpeg
+Duplicate: D:/ML_LOCAL_WIN/archive\AbdomenCT\006856.jpeg and D:/ML_LOCAL_WIN/archive\AbdomenCT\006481.jpeg
+Duplicate: D:/ML_LOCAL_WIN/archive\AbdomenCT\006865.jpeg and D:/ML_LOCAL_WIN/archive\AbdomenCT\006453.jpeg
+Duplicate: D:/ML_LOCAL_WIN/archive\AbdomenCT\006880.jpeg and D:/ML_LOCAL_WIN/archive\AbdomenCT\006529.jpeg
+Duplicate: D:/ML_LOCAL_WIN/archive\AbdomenCT\006888.jpeg and D:/ML_LOCAL_WIN/archive\AbdomenCT\006515.jpeg
+Duplicate: D:/ML_LOCAL_WIN/archive\AbdomenCT\006900.jpeg and D:/ML_LOCAL_WIN/archive\AbdomenCT\006525.jpeg
+Duplicate: D:/ML_LOCAL_WIN/archive\AbdomenCT\006906.jpeg and D:/ML_LOCAL_WIN/archive\AbdomenCT\006484.jpeg
+Duplicate: D:/ML_LOCAL_WIN/archive\AbdomenCT\006911.jpeg and D:/ML_LOCAL_WIN/archive\AbdomenCT\006391.jpeg
+Duplicate: D:/ML_LOCAL_WIN/archive\AbdomenCT\006913.jpeg and D:/ML_LOCAL_WIN/archive\AbdomenCT\006546.jpeg
+Duplicate: D:/ML_LOCAL_WIN/archive\AbdomenCT\006919.jpeg and D:/ML_LOCAL_WIN/archive\AbdomenCT\006501.jpeg
+Duplicate: D:/ML_LOCAL_WIN/archive\AbdomenCT\006925.jpeg and D:/ML_LOCAL_WIN/archive\AbdomenCT\006537.jpeg
+Removing duplicates in folder 'AbdomenCT':
+Error removing file ('D:/ML_LOCAL_WIN/archive\\AbdomenCT\\001584.jpeg', 'D:/ML_LOCAL_WIN/archive\\AbdomenCT\\001576.jpeg'): remove: path should be string, bytes or os.PathLike, not tuple
+Error removing file ('D:/ML_LOCAL_WIN/archive\\AbdomenCT\\001586.jpeg', 'D:/ML_LOCAL_WIN/archive\\AbdomenCT\\001582.jpeg'): remove: path should be string, bytes or os.PathLike, not tuple
+Error removing file ('D:/ML_LOCAL_WIN/archive\\AbdomenCT\\001591.jpeg', 'D:/ML_LOCAL_WIN/archive\\AbdomenCT\\001565.jpeg'): remove: path should be string, bytes or os.PathLike, not tuple
+Error removing file ('D:/ML_LOCAL_WIN/archive\\AbdomenCT\\001592.jpeg', 'D:/ML_LOCAL_WIN/archive\\AbdomenCT\\001587.jpeg'): remove: path should be string, bytes or os.PathLike, not tuple
+Error removing file ('D:/ML_LOCAL_WIN/archive\\AbdomenCT\\001607.jpeg', 'D:/ML_LOCAL_WIN/archive\\AbdomenCT\\001568.jpeg'): remove: path should be string, bytes or os.PathLike, not tuple
+Error removing file ('D:/ML_LOCAL_WIN/archive\\AbdomenCT\\001612.jpeg', 'D:/ML_LOCAL_WIN/archive\\AbdomenCT\\001580.jpeg'): remove: path should be string, bytes or os.PathLike, not tuple
+Error removing file ('D:/ML_LOCAL_WIN/archive\\AbdomenCT\\001616.jpeg', 'D:/ML_LOCAL_WIN/archive\\AbdomenCT\\001615.jpeg'): remove: path should be string, bytes or os.PathLike, not tuple
+Error removing file ('D:/ML_LOCAL_WIN/archive\\AbdomenCT\\001618.jpeg', 'D:/ML_LOCAL_WIN/archive\\AbdomenCT\\001609.jpeg'): remove: path should be string, bytes or os.PathLike, not tuple
+Error removing file ('D:/ML_LOCAL_WIN/archive\\AbdomenCT\\001623.jpeg', 'D:/ML_LOCAL_WIN/archive\\AbdomenCT\\001572.jpeg'): remove: path should be string, bytes or os.PathLike, not tuple
+Error removing file ('D:/ML_LOCAL_WIN/archive\\AbdomenCT\\001629.jpeg', 'D:/ML_LOCAL_WIN/archive\\AbdomenCT\\001602.jpeg'): remove: path should be string, bytes or os.PathLike, not tuple
+Error removing file ('D:/ML_LOCAL_WIN/archive\\AbdomenCT\\001633.jpeg', 'D:/ML_LOCAL_WIN/archive\\AbdomenCT\\001621.jpeg'): remove: path should be string, bytes or os.PathLike, not tuple
+Error removing file ('D:/ML_LOCAL_WIN/archive\\AbdomenCT\\001640.jpeg', 'D:/ML_LOCAL_WIN/archive\\AbdomenCT\\001597.jpeg'): remove: path should be string, bytes or os.PathLike, not tuple
+Error removing file ('D:/ML_LOCAL_WIN/archive\\AbdomenCT\\001650.jpeg', 'D:/ML_LOCAL_WIN/archive\\AbdomenCT\\001598.jpeg'): remove: path should be string, bytes or os.PathLike, not tuple
+Error removing file ('D:/ML_LOCAL_WIN/archive\\AbdomenCT\\001651.jpeg', 'D:/ML_LOCAL_WIN/archive\\AbdomenCT\\001638.jpeg'): remove: path should be string, bytes or os.PathLike, not tuple
+Error removing file ('D:/ML_LOCAL_WIN/archive\\AbdomenCT\\001653.jpeg', 'D:/ML_LOCAL_WIN/archive\\AbdomenCT\\001610.jpeg'): remove: path should be string, bytes or os.PathLike, not tuple
+Error removing file ('D:/ML_LOCAL_WIN/archive\\AbdomenCT\\001656.jpeg', 'D:/ML_LOCAL_WIN/archive\\AbdomenCT\\001596.jpeg'): remove: path should be string, bytes or os.PathLike, not tuple
+Error removing file ('D:/ML_LOCAL_WIN/archive\\AbdomenCT\\001659.jpeg', 'D:/ML_LOCAL_WIN/archive\\AbdomenCT\\001613.jpeg'): remove: path should be string, bytes or os.PathLike, not tuple
+Error removing file ('D:/ML_LOCAL_WIN/archive\\AbdomenCT\\001661.jpeg', 'D:/ML_LOCAL_WIN/archive\\AbdomenCT\\001646.jpeg'): remove: path should be string, bytes or os.PathLike, not tuple
+Error removing file ('D:/ML_LOCAL_WIN/archive\\AbdomenCT\\001664.jpeg', 'D:/ML_LOCAL_WIN/archive\\AbdomenCT\\001641.jpeg'): remove: path should be string, bytes or os.PathLike, not tuple
+Error removing file ('D:/ML_LOCAL_WIN/archive\\AbdomenCT\\001665.jpeg', 'D:/ML_LOCAL_WIN/archive\\AbdomenCT\\001624.jpeg'): remove: path should be string, bytes or os.PathLike, not tuple
+Error removing file ('D:/ML_LOCAL_WIN/archive\\AbdomenCT\\001667.jpeg', 'D:/ML_LOCAL_WIN/archive\\AbdomenCT\\001645.jpeg'): remove: path should be string, bytes or os.PathLike, not tuple
+Error removing file ('D:/ML_LOCAL_WIN/archive\\AbdomenCT\\001668.jpeg', 'D:/ML_LOCAL_WIN/archive\\AbdomenCT\\001590.jpeg'): remove: path should be string, bytes or os.PathLike, not tuple
+Error removing file ('D:/ML_LOCAL_WIN/archive\\AbdomenCT\\001670.jpeg', 'D:/ML_LOCAL_WIN/archive\\AbdomenCT\\001570.jpeg'): remove: path should be string, bytes or os.PathLike, not tuple
+Error removing file ('D:/ML_LOCAL_WIN/archive\\AbdomenCT\\001672.jpeg', 'D:/ML_LOCAL_WIN/archive\\AbdomenCT\\001601.jpeg'): remove: path should be string, bytes or os.PathLike, not tuple
+Error removing file ('D:/ML_LOCAL_WIN/archive\\AbdomenCT\\001674.jpeg', 'D:/ML_LOCAL_WIN/archive\\AbdomenCT\\001663.jpeg'): remove: path should be string, bytes or os.PathLike, not tuple
+Error removing file ('D:/ML_LOCAL_WIN/archive\\AbdomenCT\\001675.jpeg', 'D:/ML_LOCAL_WIN/archive\\AbdomenCT\\001577.jpeg'): remove: path should be string, bytes or os.PathLike, not tuple
+Error removing file ('D:/ML_LOCAL_WIN/archive\\AbdomenCT\\001677.jpeg', 'D:/ML_LOCAL_WIN/archive\\AbdomenCT\\001662.jpeg'): remove: path should be string, bytes or os.PathLike, not tuple
+Error removing file ('D:/ML_LOCAL_WIN/archive\\AbdomenCT\\001678.jpeg', 'D:/ML_LOCAL_WIN/archive\\AbdomenCT\\001658.jpeg'): remove: path should be string, bytes or os.PathLike, not tuple
+Error removing file ('D:/ML_LOCAL_WIN/archive\\AbdomenCT\\001679.jpeg', 'D:/ML_LOCAL_WIN/archive\\AbdomenCT\\001594.jpeg'): remove: path should be string, bytes or os.PathLike, not tuple
+Error removing file ('D:/ML_LOCAL_WIN/archive\\AbdomenCT\\001680.jpeg', 'D:/ML_LOCAL_WIN/archive\\AbdomenCT\\001608.jpeg'): remove: path should be string, bytes or os.PathLike, not tuple
+Error removing file ('D:/ML_LOCAL_WIN/archive\\AbdomenCT\\001682.jpeg', 'D:/ML_LOCAL_WIN/archive\\AbdomenCT\\001652.jpeg'): remove: path should be string, bytes or os.PathLike, not tuple
+Error removing file ('D:/ML_LOCAL_WIN/archive\\AbdomenCT\\001684.jpeg', 'D:/ML_LOCAL_WIN/archive\\AbdomenCT\\001619.jpeg'): remove: path should be string, bytes or os.PathLike, not tuple
+Error removing file ('D:/ML_LOCAL_WIN/archive\\AbdomenCT\\001685.jpeg', 'D:/ML_LOCAL_WIN/archive\\AbdomenCT\\001628.jpeg'): remove: path should be string, bytes or os.PathLike, not tuple
+Error removing file ('D:/ML_LOCAL_WIN/archive\\AbdomenCT\\001687.jpeg', 'D:/ML_LOCAL_WIN/archive\\AbdomenCT\\001636.jpeg'): remove: path should be string, bytes or os.PathLike, not tuple
+Error removing file ('D:/ML_LOCAL_WIN/archive\\AbdomenCT\\001688.jpeg', 'D:/ML_LOCAL_WIN/archive\\AbdomenCT\\001635.jpeg'): remove: path should be string, bytes or os.PathLike, not tuple
+Error removing file ('D:/ML_LOCAL_WIN/archive\\AbdomenCT\\001689.jpeg', 'D:/ML_LOCAL_WIN/archive\\AbdomenCT\\001647.jpeg'): remove: path should be string, bytes or os.PathLike, not tuple
+Error removing file ('D:/ML_LOCAL_WIN/archive\\AbdomenCT\\001691.jpeg', 'D:/ML_LOCAL_WIN/archive\\AbdomenCT\\001686.jpeg'): remove: path should be string, bytes or os.PathLike, not tuple
+Error removing file ('D:/ML_LOCAL_WIN/archive\\AbdomenCT\\001692.jpeg', 'D:/ML_LOCAL_WIN/archive\\AbdomenCT\\001654.jpeg'): remove: path should be string, bytes or os.PathLike, not tuple
+Error removing file ('D:/ML_LOCAL_WIN/archive\\AbdomenCT\\001694.jpeg', 'D:/ML_LOCAL_WIN/archive\\AbdomenCT\\001614.jpeg'): remove: path should be string, bytes or os.PathLike, not tuple
+Error removing file ('D:/ML_LOCAL_WIN/archive\\AbdomenCT\\001695.jpeg', 'D:/ML_LOCAL_WIN/archive\\AbdomenCT\\001625.jpeg'): remove: path should be string, bytes or os.PathLike, not tuple
+Error removing file ('D:/ML_LOCAL_WIN/archive\\AbdomenCT\\001697.jpeg', 'D:/ML_LOCAL_WIN/archive\\AbdomenCT\\001676.jpeg'): remove: path should be string, bytes or os.PathLike, not tuple
+Error removing file ('D:/ML_LOCAL_WIN/archive\\AbdomenCT\\001700.jpeg', 'D:/ML_LOCAL_WIN/archive\\AbdomenCT\\001571.jpeg'): remove: path should be string, bytes or os.PathLike, not tuple
+Error removing file ('D:/ML_LOCAL_WIN/archive\\AbdomenCT\\001701.jpeg', 'D:/ML_LOCAL_WIN/archive\\AbdomenCT\\001666.jpeg'): remove: path should be string, bytes or os.PathLike, not tuple
+Error removing file ('D:/ML_LOCAL_WIN/archive\\AbdomenCT\\001704.jpeg', 'D:/ML_LOCAL_WIN/archive\\AbdomenCT\\001575.jpeg'): remove: path should be string, bytes or os.PathLike, not tuple
+Error removing file ('D:/ML_LOCAL_WIN/archive\\AbdomenCT\\001707.jpeg', 'D:/ML_LOCAL_WIN/archive\\AbdomenCT\\001705.jpeg'): remove: path should be string, bytes or os.PathLike, not tuple
+Error removing file ('D:/ML_LOCAL_WIN/archive\\AbdomenCT\\001708.jpeg', 'D:/ML_LOCAL_WIN/archive\\AbdomenCT\\001620.jpeg'): remove: path should be string, bytes or os.PathLike, not tuple
+Error removing file ('D:/ML_LOCAL_WIN/archive\\AbdomenCT\\001709.jpeg', 'D:/ML_LOCAL_WIN/archive\\AbdomenCT\\001589.jpeg'): remove: path should be string, bytes or os.PathLike, not tuple
+Error removing file ('D:/ML_LOCAL_WIN/archive\\AbdomenCT\\001710.jpeg', 'D:/ML_LOCAL_WIN/archive\\AbdomenCT\\001627.jpeg'): remove: path should be string, bytes or os.PathLike, not tuple
+Error removing file ('D:/ML_LOCAL_WIN/archive\\AbdomenCT\\001712.jpeg', 'D:/ML_LOCAL_WIN/archive\\AbdomenCT\\001605.jpeg'): remove: path should be string, bytes or os.PathLike, not tuple
+Error removing file ('D:/ML_LOCAL_WIN/archive\\AbdomenCT\\001713.jpeg', 'D:/ML_LOCAL_WIN/archive\\AbdomenCT\\001657.jpeg'): remove: path should be string, bytes or os.PathLike, not tuple
+Error removing file ('D:/ML_LOCAL_WIN/archive\\AbdomenCT\\001715.jpeg', 'D:/ML_LOCAL_WIN/archive\\AbdomenCT\\001632.jpeg'): remove: path should be string, bytes or os.PathLike, not tuple
+Error removing file ('D:/ML_LOCAL_WIN/archive\\AbdomenCT\\001719.jpeg', 'D:/ML_LOCAL_WIN/archive\\AbdomenCT\\001642.jpeg'): remove: path should be string, bytes or os.PathLike, not tuple
+Error removing file ('D:/ML_LOCAL_WIN/archive\\AbdomenCT\\001720.jpeg', 'D:/ML_LOCAL_WIN/archive\\AbdomenCT\\001595.jpeg'): remove: path should be string, bytes or os.PathLike, not tuple
+Error removing file ('D:/ML_LOCAL_WIN/archive\\AbdomenCT\\001724.jpeg', 'D:/ML_LOCAL_WIN/archive\\AbdomenCT\\001706.jpeg'): remove: path should be string, bytes or os.PathLike, not tuple
+Error removing file ('D:/ML_LOCAL_WIN/archive\\AbdomenCT\\001725.jpeg', 'D:/ML_LOCAL_WIN/archive\\AbdomenCT\\001698.jpeg'): remove: path should be string, bytes or os.PathLike, not tuple
+Error removing file ('D:/ML_LOCAL_WIN/archive\\AbdomenCT\\001726.jpeg', 'D:/ML_LOCAL_WIN/archive\\AbdomenCT\\001639.jpeg'): remove: path should be string, bytes or os.PathLike, not tuple
+Error removing file ('D:/ML_LOCAL_WIN/archive\\AbdomenCT\\001729.jpeg', 'D:/ML_LOCAL_WIN/archive\\AbdomenCT\\001643.jpeg'): remove: path should be string, bytes or os.PathLike, not tuple
+Error removing file ('D:/ML_LOCAL_WIN/archive\\AbdomenCT\\001731.jpeg', 'D:/ML_LOCAL_WIN/archive\\AbdomenCT\\001699.jpeg'): remove: path should be string, bytes or os.PathLike, not tuple
+Error removing file ('D:/ML_LOCAL_WIN/archive\\AbdomenCT\\001732.jpeg', 'D:/ML_LOCAL_WIN/archive\\AbdomenCT\\001660.jpeg'): remove: path should be string, bytes or os.PathLike, not tuple
+Error removing file ('D:/ML_LOCAL_WIN/archive\\AbdomenCT\\001734.jpeg', 'D:/ML_LOCAL_WIN/archive\\AbdomenCT\\001567.jpeg'): remove: path should be string, bytes or os.PathLike, not tuple
+Error removing file ('D:/ML_LOCAL_WIN/archive\\AbdomenCT\\001737.jpeg', 'D:/ML_LOCAL_WIN/archive\\AbdomenCT\\001611.jpeg'): remove: path should be string, bytes or os.PathLike, not tuple
+Error removing file ('D:/ML_LOCAL_WIN/archive\\AbdomenCT\\001740.jpeg', 'D:/ML_LOCAL_WIN/archive\\AbdomenCT\\001637.jpeg'): remove: path should be string, bytes or os.PathLike, not tuple
+Error removing file ('D:/ML_LOCAL_WIN/archive\\AbdomenCT\\001742.jpeg', 'D:/ML_LOCAL_WIN/archive\\AbdomenCT\\001649.jpeg'): remove: path should be string, bytes or os.PathLike, not tuple
+Error removing file ('D:/ML_LOCAL_WIN/archive\\AbdomenCT\\001743.jpeg', 'D:/ML_LOCAL_WIN/archive\\AbdomenCT\\001727.jpeg'): remove: path should be string, bytes or os.PathLike, not tuple
+Error removing file ('D:/ML_LOCAL_WIN/archive\\AbdomenCT\\001744.jpeg', 'D:/ML_LOCAL_WIN/archive\\AbdomenCT\\001579.jpeg'): remove: path should be string, bytes or os.PathLike, not tuple
+Error removing file ('D:/ML_LOCAL_WIN/archive\\AbdomenCT\\001745.jpeg', 'D:/ML_LOCAL_WIN/archive\\AbdomenCT\\001703.jpeg'): remove: path should be string, bytes or os.PathLike, not tuple
+Error removing file ('D:/ML_LOCAL_WIN/archive\\AbdomenCT\\001746.jpeg', 'D:/ML_LOCAL_WIN/archive\\AbdomenCT\\001723.jpeg'): remove: path should be string, bytes or os.PathLike, not tuple
+Error removing file ('D:/ML_LOCAL_WIN/archive\\AbdomenCT\\001749.jpeg', 'D:/ML_LOCAL_WIN/archive\\AbdomenCT\\001630.jpeg'): remove: path should be string, bytes or os.PathLike, not tuple
+Error removing file ('D:/ML_LOCAL_WIN/archive\\AbdomenCT\\001751.jpeg', 'D:/ML_LOCAL_WIN/archive\\AbdomenCT\\001750.jpeg'): remove: path should be string, bytes or os.PathLike, not tuple
+Error removing file ('D:/ML_LOCAL_WIN/archive\\AbdomenCT\\001753.jpeg', 'D:/ML_LOCAL_WIN/archive\\AbdomenCT\\001733.jpeg'): remove: path should be string, bytes or os.PathLike, not tuple
+Error removing file ('D:/ML_LOCAL_WIN/archive\\AbdomenCT\\001754.jpeg', 'D:/ML_LOCAL_WIN/archive\\AbdomenCT\\001604.jpeg'): remove: path should be string, bytes or os.PathLike, not tuple
+Error removing file ('D:/ML_LOCAL_WIN/archive\\AbdomenCT\\001755.jpeg', 'D:/ML_LOCAL_WIN/archive\\AbdomenCT\\001583.jpeg'): remove: path should be string, bytes or os.PathLike, not tuple
+Error removing file ('D:/ML_LOCAL_WIN/archive\\AbdomenCT\\001756.jpeg', 'D:/ML_LOCAL_WIN/archive\\AbdomenCT\\001748.jpeg'): remove: path should be string, bytes or os.PathLike, not tuple
+Error removing file ('D:/ML_LOCAL_WIN/archive\\AbdomenCT\\001757.jpeg', 'D:/ML_LOCAL_WIN/archive\\AbdomenCT\\001599.jpeg'): remove: path should be string, bytes or os.PathLike, not tuple
+Error removing file ('D:/ML_LOCAL_WIN/archive\\AbdomenCT\\001758.jpeg', 'D:/ML_LOCAL_WIN/archive\\AbdomenCT\\001631.jpeg'): remove: path should be string, bytes or os.PathLike, not tuple
+Error removing file ('D:/ML_LOCAL_WIN/archive\\AbdomenCT\\001760.jpeg', 'D:/ML_LOCAL_WIN/archive\\AbdomenCT\\001717.jpeg'): remove: path should be string, bytes or os.PathLike, not tuple
+Error removing file ('D:/ML_LOCAL_WIN/archive\\AbdomenCT\\001761.jpeg', 'D:/ML_LOCAL_WIN/archive\\AbdomenCT\\001573.jpeg'): remove: path should be string, bytes or os.PathLike, not tuple
+Error removing file ('D:/ML_LOCAL_WIN/archive\\AbdomenCT\\001762.jpeg', 'D:/ML_LOCAL_WIN/archive\\AbdomenCT\\001741.jpeg'): remove: path should be string, bytes or os.PathLike, not tuple
+Error removing file ('D:/ML_LOCAL_WIN/archive\\AbdomenCT\\001763.jpeg', 'D:/ML_LOCAL_WIN/archive\\AbdomenCT\\001648.jpeg'): remove: path should be string, bytes or os.PathLike, not tuple
+Error removing file ('D:/ML_LOCAL_WIN/archive\\AbdomenCT\\001764.jpeg', 'D:/ML_LOCAL_WIN/archive\\AbdomenCT\\001574.jpeg'): remove: path should be string, bytes or os.PathLike, not tuple
+Error removing file ('D:/ML_LOCAL_WIN/archive\\AbdomenCT\\001765.jpeg', 'D:/ML_LOCAL_WIN/archive\\AbdomenCT\\001747.jpeg'): remove: path should be string, bytes or os.PathLike, not tuple
+Error removing file ('D:/ML_LOCAL_WIN/archive\\AbdomenCT\\001766.jpeg', 'D:/ML_LOCAL_WIN/archive\\AbdomenCT\\001671.jpeg'): remove: path should be string, bytes or os.PathLike, not tuple
+Error removing file ('D:/ML_LOCAL_WIN/archive\\AbdomenCT\\001767.jpeg', 'D:/ML_LOCAL_WIN/archive\\AbdomenCT\\001702.jpeg'): remove: path should be string, bytes or os.PathLike, not tuple
+Error removing file ('D:/ML_LOCAL_WIN/archive\\AbdomenCT\\001768.jpeg', 'D:/ML_LOCAL_WIN/archive\\AbdomenCT\\001581.jpeg'): remove: path should be string, bytes or os.PathLike, not tuple
+Error removing file ('D:/ML_LOCAL_WIN/archive\\AbdomenCT\\001769.jpeg', 'D:/ML_LOCAL_WIN/archive\\AbdomenCT\\001585.jpeg'): remove: path should be string, bytes or os.PathLike, not tuple
+Error removing file ('D:/ML_LOCAL_WIN/archive\\AbdomenCT\\001771.jpeg', 'D:/ML_LOCAL_WIN/archive\\AbdomenCT\\001606.jpeg'): remove: path should be string, bytes or os.PathLike, not tuple
+Error removing file ('D:/ML_LOCAL_WIN/archive\\AbdomenCT\\001773.jpeg', 'D:/ML_LOCAL_WIN/archive\\AbdomenCT\\001683.jpeg'): remove: path should be string, bytes or os.PathLike, not tuple
+Error removing file ('D:/ML_LOCAL_WIN/archive\\AbdomenCT\\001774.jpeg', 'D:/ML_LOCAL_WIN/archive\\AbdomenCT\\001714.jpeg'): remove: path should be string, bytes or os.PathLike, not tuple
+Error removing file ('D:/ML_LOCAL_WIN/archive\\AbdomenCT\\001775.jpeg', 'D:/ML_LOCAL_WIN/archive\\AbdomenCT\\001759.jpeg'): remove: path should be string, bytes or os.PathLike, not tuple
+Error removing file ('D:/ML_LOCAL_WIN/archive\\AbdomenCT\\001776.jpeg', 'D:/ML_LOCAL_WIN/archive\\AbdomenCT\\001578.jpeg'): remove: path should be string, bytes or os.PathLike, not tuple
+Error removing file ('D:/ML_LOCAL_WIN/archive\\AbdomenCT\\001777.jpeg', 'D:/ML_LOCAL_WIN/archive\\AbdomenCT\\001634.jpeg'): remove: path should be string, bytes or os.PathLike, not tuple
+Error removing file ('D:/ML_LOCAL_WIN/archive\\AbdomenCT\\001778.jpeg', 'D:/ML_LOCAL_WIN/archive\\AbdomenCT\\001588.jpeg'): remove: path should be string, bytes or os.PathLike, not tuple
+Error removing file ('D:/ML_LOCAL_WIN/archive\\AbdomenCT\\001779.jpeg', 'D:/ML_LOCAL_WIN/archive\\AbdomenCT\\001617.jpeg'): remove: path should be string, bytes or os.PathLike, not tuple
+Error removing file ('D:/ML_LOCAL_WIN/archive\\AbdomenCT\\001781.jpeg', 'D:/ML_LOCAL_WIN/archive\\AbdomenCT\\001739.jpeg'): remove: path should be string, bytes or os.PathLike, not tuple
+Error removing file ('D:/ML_LOCAL_WIN/archive\\AbdomenCT\\001782.jpeg', 'D:/ML_LOCAL_WIN/archive\\AbdomenCT\\001669.jpeg'): remove: path should be string, bytes or os.PathLike, not tuple
+Error removing file ('D:/ML_LOCAL_WIN/archive\\AbdomenCT\\001783.jpeg', 'D:/ML_LOCAL_WIN/archive\\AbdomenCT\\001730.jpeg'): remove: path should be string, bytes or os.PathLike, not tuple
+Error removing file ('D:/ML_LOCAL_WIN/archive\\AbdomenCT\\001784.jpeg', 'D:/ML_LOCAL_WIN/archive\\AbdomenCT\\001655.jpeg'): remove: path should be string, bytes or os.PathLike, not tuple
+Error removing file ('D:/ML_LOCAL_WIN/archive\\AbdomenCT\\001785.jpeg', 'D:/ML_LOCAL_WIN/archive\\AbdomenCT\\001690.jpeg'): remove: path should be string, bytes or os.PathLike, not tuple
+Error removing file ('D:/ML_LOCAL_WIN/archive\\AbdomenCT\\001786.jpeg', 'D:/ML_LOCAL_WIN/archive\\AbdomenCT\\001780.jpeg'): remove: path should be string, bytes or os.PathLike, not tuple
+Error removing file ('D:/ML_LOCAL_WIN/archive\\AbdomenCT\\001787.jpeg', 'D:/ML_LOCAL_WIN/archive\\AbdomenCT\\001735.jpeg'): remove: path should be string, bytes or os.PathLike, not tuple
+Error removing file ('D:/ML_LOCAL_WIN/archive\\AbdomenCT\\001788.jpeg', 'D:/ML_LOCAL_WIN/archive\\AbdomenCT\\001693.jpeg'): remove: path should be string, bytes or os.PathLike, not tuple
+Error removing file ('D:/ML_LOCAL_WIN/archive\\AbdomenCT\\001789.jpeg', 'D:/ML_LOCAL_WIN/archive\\AbdomenCT\\001603.jpeg'): remove: path should be string, bytes or os.PathLike, not tuple
+Error removing file ('D:/ML_LOCAL_WIN/archive\\AbdomenCT\\001790.jpeg', 'D:/ML_LOCAL_WIN/archive\\AbdomenCT\\001644.jpeg'): remove: path should be string, bytes or os.PathLike, not tuple
+Error removing file ('D:/ML_LOCAL_WIN/archive\\AbdomenCT\\001791.jpeg', 'D:/ML_LOCAL_WIN/archive\\AbdomenCT\\001673.jpeg'): remove: path should be string, bytes or os.PathLike, not tuple
+Error removing file ('D:/ML_LOCAL_WIN/archive\\AbdomenCT\\001792.jpeg', 'D:/ML_LOCAL_WIN/archive\\AbdomenCT\\001681.jpeg'): remove: path should be string, bytes or os.PathLike, not tuple
+Error removing file ('D:/ML_LOCAL_WIN/archive\\AbdomenCT\\001793.jpeg', 'D:/ML_LOCAL_WIN/archive\\AbdomenCT\\001600.jpeg'): remove: path should be string, bytes or os.PathLike, not tuple
+Error removing file ('D:/ML_LOCAL_WIN/archive\\AbdomenCT\\001794.jpeg', 'D:/ML_LOCAL_WIN/archive\\AbdomenCT\\001738.jpeg'): remove: path should be string, bytes or os.PathLike, not tuple
+Error removing file ('D:/ML_LOCAL_WIN/archive\\AbdomenCT\\001795.jpeg', 'D:/ML_LOCAL_WIN/archive\\AbdomenCT\\001772.jpeg'): remove: path should be string, bytes or os.PathLike, not tuple
+Error removing file ('D:/ML_LOCAL_WIN/archive\\AbdomenCT\\001796.jpeg', 'D:/ML_LOCAL_WIN/archive\\AbdomenCT\\001770.jpeg'): remove: path should be string, bytes or os.PathLike, not tuple
+Error removing file ('D:/ML_LOCAL_WIN/archive\\AbdomenCT\\001797.jpeg', 'D:/ML_LOCAL_WIN/archive\\AbdomenCT\\001622.jpeg'): remove: path should be string, bytes or os.PathLike, not tuple
+Error removing file ('D:/ML_LOCAL_WIN/archive\\AbdomenCT\\001798.jpeg', 'D:/ML_LOCAL_WIN/archive\\AbdomenCT\\001721.jpeg'): remove: path should be string, bytes or os.PathLike, not tuple
+Error removing file ('D:/ML_LOCAL_WIN/archive\\AbdomenCT\\001799.jpeg', 'D:/ML_LOCAL_WIN/archive\\AbdomenCT\\001736.jpeg'): remove: path should be string, bytes or os.PathLike, not tuple
+Error removing file ('D:/ML_LOCAL_WIN/archive\\AbdomenCT\\001800.jpeg', 'D:/ML_LOCAL_WIN/archive\\AbdomenCT\\001711.jpeg'): remove: path should be string, bytes or os.PathLike, not tuple
+Error removing file ('D:/ML_LOCAL_WIN/archive\\AbdomenCT\\001801.jpeg', 'D:/ML_LOCAL_WIN/archive\\AbdomenCT\\001696.jpeg'): remove: path should be string, bytes or os.PathLike, not tuple
+Error removing file ('D:/ML_LOCAL_WIN/archive\\AbdomenCT\\001803.jpeg', 'D:/ML_LOCAL_WIN/archive\\AbdomenCT\\001728.jpeg'): remove: path should be string, bytes or os.PathLike, not tuple
+Error removing file ('D:/ML_LOCAL_WIN/archive\\AbdomenCT\\001804.jpeg', 'D:/ML_LOCAL_WIN/archive\\AbdomenCT\\001566.jpeg'): remove: path should be string, bytes or os.PathLike, not tuple
+Error removing file ('D:/ML_LOCAL_WIN/archive\\AbdomenCT\\001805.jpeg', 'D:/ML_LOCAL_WIN/archive\\AbdomenCT\\001722.jpeg'): remove: path should be string, bytes or os.PathLike, not tuple
+Error removing file ('D:/ML_LOCAL_WIN/archive\\AbdomenCT\\001806.jpeg', 'D:/ML_LOCAL_WIN/archive\\AbdomenCT\\001569.jpeg'): remove: path should be string, bytes or os.PathLike, not tuple
+Error removing file ('D:/ML_LOCAL_WIN/archive\\AbdomenCT\\001807.jpeg', 'D:/ML_LOCAL_WIN/archive\\AbdomenCT\\001626.jpeg'): remove: path should be string, bytes or os.PathLike, not tuple
+Error removing file ('D:/ML_LOCAL_WIN/archive\\AbdomenCT\\001808.jpeg', 'D:/ML_LOCAL_WIN/archive\\AbdomenCT\\001716.jpeg'): remove: path should be string, bytes or os.PathLike, not tuple
+Error removing file ('D:/ML_LOCAL_WIN/archive\\AbdomenCT\\001809.jpeg', 'D:/ML_LOCAL_WIN/archive\\AbdomenCT\\001752.jpeg'): remove: path should be string, bytes or os.PathLike, not tuple
+Error removing file ('D:/ML_LOCAL_WIN/archive\\AbdomenCT\\001810.jpeg', 'D:/ML_LOCAL_WIN/archive\\AbdomenCT\\001593.jpeg'): remove: path should be string, bytes or os.PathLike, not tuple
+Error removing file ('D:/ML_LOCAL_WIN/archive\\AbdomenCT\\001811.jpeg', 'D:/ML_LOCAL_WIN/archive\\AbdomenCT\\001718.jpeg'): remove: path should be string, bytes or os.PathLike, not tuple
+Error removing file ('D:/ML_LOCAL_WIN/archive\\AbdomenCT\\001812.jpeg', 'D:/ML_LOCAL_WIN/archive\\AbdomenCT\\001802.jpeg'): remove: path should be string, bytes or os.PathLike, not tuple
+Error removing file ('D:/ML_LOCAL_WIN/archive\\AbdomenCT\\001842.jpeg', 'D:/ML_LOCAL_WIN/archive\\AbdomenCT\\001830.jpeg'): remove: path should be string, bytes or os.PathLike, not tuple
+Error removing file ('D:/ML_LOCAL_WIN/archive\\AbdomenCT\\001844.jpeg', 'D:/ML_LOCAL_WIN/archive\\AbdomenCT\\001835.jpeg'): remove: path should be string, bytes or os.PathLike, not tuple
+Error removing file ('D:/ML_LOCAL_WIN/archive\\AbdomenCT\\001852.jpeg', 'D:/ML_LOCAL_WIN/archive\\AbdomenCT\\001840.jpeg'): remove: path should be string, bytes or os.PathLike, not tuple
+Error removing file ('D:/ML_LOCAL_WIN/archive\\AbdomenCT\\001859.jpeg', 'D:/ML_LOCAL_WIN/archive\\AbdomenCT\\001845.jpeg'): remove: path should be string, bytes or os.PathLike, not tuple
+Error removing file ('D:/ML_LOCAL_WIN/archive\\AbdomenCT\\001864.jpeg', 'D:/ML_LOCAL_WIN/archive\\AbdomenCT\\001823.jpeg'): remove: path should be string, bytes or os.PathLike, not tuple
+Error removing file ('D:/ML_LOCAL_WIN/archive\\AbdomenCT\\001865.jpeg', 'D:/ML_LOCAL_WIN/archive\\AbdomenCT\\001846.jpeg'): remove: path should be string, bytes or os.PathLike, not tuple
+Error removing file ('D:/ML_LOCAL_WIN/archive\\AbdomenCT\\001866.jpeg', 'D:/ML_LOCAL_WIN/archive\\AbdomenCT\\001854.jpeg'): remove: path should be string, bytes or os.PathLike, not tuple
+Error removing file ('D:/ML_LOCAL_WIN/archive\\AbdomenCT\\001869.jpeg', 'D:/ML_LOCAL_WIN/archive\\AbdomenCT\\001848.jpeg'): remove: path should be string, bytes or os.PathLike, not tuple
+Error removing file ('D:/ML_LOCAL_WIN/archive\\AbdomenCT\\001872.jpeg', 'D:/ML_LOCAL_WIN/archive\\AbdomenCT\\001867.jpeg'): remove: path should be string, bytes or os.PathLike, not tuple
+Error removing file ('D:/ML_LOCAL_WIN/archive\\AbdomenCT\\001881.jpeg', 'D:/ML_LOCAL_WIN/archive\\AbdomenCT\\001850.jpeg'): remove: path should be string, bytes or os.PathLike, not tuple
+Error removing file ('D:/ML_LOCAL_WIN/archive\\AbdomenCT\\001882.jpeg', 'D:/ML_LOCAL_WIN/archive\\AbdomenCT\\001871.jpeg'): remove: path should be string, bytes or os.PathLike, not tuple
+Error removing file ('D:/ML_LOCAL_WIN/archive\\AbdomenCT\\001892.jpeg', 'D:/ML_LOCAL_WIN/archive\\AbdomenCT\\001856.jpeg'): remove: path should be string, bytes or os.PathLike, not tuple
+Error removing file ('D:/ML_LOCAL_WIN/archive\\AbdomenCT\\001893.jpeg', 'D:/ML_LOCAL_WIN/archive\\AbdomenCT\\001829.jpeg'): remove: path should be string, bytes or os.PathLike, not tuple
+Error removing file ('D:/ML_LOCAL_WIN/archive\\AbdomenCT\\001895.jpeg', 'D:/ML_LOCAL_WIN/archive\\AbdomenCT\\001874.jpeg'): remove: path should be string, bytes or os.PathLike, not tuple
+Error removing file ('D:/ML_LOCAL_WIN/archive\\AbdomenCT\\001901.jpeg', 'D:/ML_LOCAL_WIN/archive\\AbdomenCT\\001862.jpeg'): remove: path should be string, bytes or os.PathLike, not tuple
+Error removing file ('D:/ML_LOCAL_WIN/archive\\AbdomenCT\\001903.jpeg', 'D:/ML_LOCAL_WIN/archive\\AbdomenCT\\001884.jpeg'): remove: path should be string, bytes or os.PathLike, not tuple
+Error removing file ('D:/ML_LOCAL_WIN/archive\\AbdomenCT\\001906.jpeg', 'D:/ML_LOCAL_WIN/archive\\AbdomenCT\\001905.jpeg'): remove: path should be string, bytes or os.PathLike, not tuple
+Error removing file ('D:/ML_LOCAL_WIN/archive\\AbdomenCT\\001909.jpeg', 'D:/ML_LOCAL_WIN/archive\\AbdomenCT\\001849.jpeg'): remove: path should be string, bytes or os.PathLike, not tuple
+Error removing file ('D:/ML_LOCAL_WIN/archive\\AbdomenCT\\001915.jpeg', 'D:/ML_LOCAL_WIN/archive\\AbdomenCT\\001911.jpeg'): remove: path should be string, bytes or os.PathLike, not tuple
+Error removing file ('D:/ML_LOCAL_WIN/archive\\AbdomenCT\\001916.jpeg', 'D:/ML_LOCAL_WIN/archive\\AbdomenCT\\001896.jpeg'): remove: path should be string, bytes or os.PathLike, not tuple
+Error removing file ('D:/ML_LOCAL_WIN/archive\\AbdomenCT\\001920.jpeg', 'D:/ML_LOCAL_WIN/archive\\AbdomenCT\\001814.jpeg'): remove: path should be string, bytes or os.PathLike, not tuple
+Error removing file ('D:/ML_LOCAL_WIN/archive\\AbdomenCT\\001928.jpeg', 'D:/ML_LOCAL_WIN/archive\\AbdomenCT\\001837.jpeg'): remove: path should be string, bytes or os.PathLike, not tuple
+Error removing file ('D:/ML_LOCAL_WIN/archive\\AbdomenCT\\001931.jpeg', 'D:/ML_LOCAL_WIN/archive\\AbdomenCT\\001843.jpeg'): remove: path should be string, bytes or os.PathLike, not tuple
+Error removing file ('D:/ML_LOCAL_WIN/archive\\AbdomenCT\\001933.jpeg', 'D:/ML_LOCAL_WIN/archive\\AbdomenCT\\001887.jpeg'): remove: path should be string, bytes or os.PathLike, not tuple
+Error removing file ('D:/ML_LOCAL_WIN/archive\\AbdomenCT\\001946.jpeg', 'D:/ML_LOCAL_WIN/archive\\AbdomenCT\\001880.jpeg'): remove: path should be string, bytes or os.PathLike, not tuple
+Error removing file ('D:/ML_LOCAL_WIN/archive\\AbdomenCT\\001947.jpeg', 'D:/ML_LOCAL_WIN/archive\\AbdomenCT\\001822.jpeg'): remove: path should be string, bytes or os.PathLike, not tuple
+Error removing file ('D:/ML_LOCAL_WIN/archive\\AbdomenCT\\001948.jpeg', 'D:/ML_LOCAL_WIN/archive\\AbdomenCT\\001943.jpeg'): remove: path should be string, bytes or os.PathLike, not tuple
+Error removing file ('D:/ML_LOCAL_WIN/archive\\AbdomenCT\\001949.jpeg', 'D:/ML_LOCAL_WIN/archive\\AbdomenCT\\001894.jpeg'): remove: path should be string, bytes or os.PathLike, not tuple
+Error removing file ('D:/ML_LOCAL_WIN/archive\\AbdomenCT\\001953.jpeg', 'D:/ML_LOCAL_WIN/archive\\AbdomenCT\\001873.jpeg'): remove: path should be string, bytes or os.PathLike, not tuple
+Error removing file ('D:/ML_LOCAL_WIN/archive\\AbdomenCT\\001954.jpeg', 'D:/ML_LOCAL_WIN/archive\\AbdomenCT\\001929.jpeg'): remove: path should be string, bytes or os.PathLike, not tuple
+Error removing file ('D:/ML_LOCAL_WIN/archive\\AbdomenCT\\001957.jpeg', 'D:/ML_LOCAL_WIN/archive\\AbdomenCT\\001922.jpeg'): remove: path should be string, bytes or os.PathLike, not tuple
+Error removing file ('D:/ML_LOCAL_WIN/archive\\AbdomenCT\\001958.jpeg', 'D:/ML_LOCAL_WIN/archive\\AbdomenCT\\001860.jpeg'): remove: path should be string, bytes or os.PathLike, not tuple
+Error removing file ('D:/ML_LOCAL_WIN/archive\\AbdomenCT\\001961.jpeg', 'D:/ML_LOCAL_WIN/archive\\AbdomenCT\\001897.jpeg'): remove: path should be string, bytes or os.PathLike, not tuple
+Error removing file ('D:/ML_LOCAL_WIN/archive\\AbdomenCT\\001964.jpeg', 'D:/ML_LOCAL_WIN/archive\\AbdomenCT\\001877.jpeg'): remove: path should be string, bytes or os.PathLike, not tuple
+Error removing file ('D:/ML_LOCAL_WIN/archive\\AbdomenCT\\001966.jpeg', 'D:/ML_LOCAL_WIN/archive\\AbdomenCT\\001826.jpeg'): remove: path should be string, bytes or os.PathLike, not tuple
+Error removing file ('D:/ML_LOCAL_WIN/archive\\AbdomenCT\\001969.jpeg', 'D:/ML_LOCAL_WIN/archive\\AbdomenCT\\001939.jpeg'): remove: path should be string, bytes or os.PathLike, not tuple
+Error removing file ('D:/ML_LOCAL_WIN/archive\\AbdomenCT\\001971.jpeg', 'D:/ML_LOCAL_WIN/archive\\AbdomenCT\\001831.jpeg'): remove: path should be string, bytes or os.PathLike, not tuple
+Error removing file ('D:/ML_LOCAL_WIN/archive\\AbdomenCT\\001974.jpeg', 'D:/ML_LOCAL_WIN/archive\\AbdomenCT\\001817.jpeg'): remove: path should be string, bytes or os.PathLike, not tuple
+Error removing file ('D:/ML_LOCAL_WIN/archive\\AbdomenCT\\001975.jpeg', 'D:/ML_LOCAL_WIN/archive\\AbdomenCT\\001919.jpeg'): remove: path should be string, bytes or os.PathLike, not tuple
+Error removing file ('D:/ML_LOCAL_WIN/archive\\AbdomenCT\\001977.jpeg', 'D:/ML_LOCAL_WIN/archive\\AbdomenCT\\001938.jpeg'): remove: path should be string, bytes or os.PathLike, not tuple
+Error removing file ('D:/ML_LOCAL_WIN/archive\\AbdomenCT\\001978.jpeg', 'D:/ML_LOCAL_WIN/archive\\AbdomenCT\\001834.jpeg'): remove: path should be string, bytes or os.PathLike, not tuple
+Error removing file ('D:/ML_LOCAL_WIN/archive\\AbdomenCT\\001980.jpeg', 'D:/ML_LOCAL_WIN/archive\\AbdomenCT\\001836.jpeg'): remove: path should be string, bytes or os.PathLike, not tuple
+Error removing file ('D:/ML_LOCAL_WIN/archive\\AbdomenCT\\001981.jpeg', 'D:/ML_LOCAL_WIN/archive\\AbdomenCT\\001970.jpeg'): remove: path should be string, bytes or os.PathLike, not tuple
+Error removing file ('D:/ML_LOCAL_WIN/archive\\AbdomenCT\\001982.jpeg', 'D:/ML_LOCAL_WIN/archive\\AbdomenCT\\001875.jpeg'): remove: path should be string, bytes or os.PathLike, not tuple
+Error removing file ('D:/ML_LOCAL_WIN/archive\\AbdomenCT\\001988.jpeg', 'D:/ML_LOCAL_WIN/archive\\AbdomenCT\\001861.jpeg'): remove: path should be string, bytes or os.PathLike, not tuple
+Error removing file ('D:/ML_LOCAL_WIN/archive\\AbdomenCT\\001989.jpeg', 'D:/ML_LOCAL_WIN/archive\\AbdomenCT\\001914.jpeg'): remove: path should be string, bytes or os.PathLike, not tuple
+Error removing file ('D:/ML_LOCAL_WIN/archive\\AbdomenCT\\001991.jpeg', 'D:/ML_LOCAL_WIN/archive\\AbdomenCT\\001976.jpeg'): remove: path should be string, bytes or os.PathLike, not tuple
+Error removing file ('D:/ML_LOCAL_WIN/archive\\AbdomenCT\\001997.jpeg', 'D:/ML_LOCAL_WIN/archive\\AbdomenCT\\001944.jpeg'): remove: path should be string, bytes or os.PathLike, not tuple
+Error removing file ('D:/ML_LOCAL_WIN/archive\\AbdomenCT\\001998.jpeg', 'D:/ML_LOCAL_WIN/archive\\AbdomenCT\\001925.jpeg'): remove: path should be string, bytes or os.PathLike, not tuple
+Error removing file ('D:/ML_LOCAL_WIN/archive\\AbdomenCT\\001999.jpeg', 'D:/ML_LOCAL_WIN/archive\\AbdomenCT\\001942.jpeg'): remove: path should be string, bytes or os.PathLike, not tuple
+Error removing file ('D:/ML_LOCAL_WIN/archive\\AbdomenCT\\002002.jpeg', 'D:/ML_LOCAL_WIN/archive\\AbdomenCT\\001926.jpeg'): remove: path should be string, bytes or os.PathLike, not tuple
+Error removing file ('D:/ML_LOCAL_WIN/archive\\AbdomenCT\\002005.jpeg', 'D:/ML_LOCAL_WIN/archive\\AbdomenCT\\001876.jpeg'): remove: path should be string, bytes or os.PathLike, not tuple
+Error removing file ('D:/ML_LOCAL_WIN/archive\\AbdomenCT\\002006.jpeg', 'D:/ML_LOCAL_WIN/archive\\AbdomenCT\\001959.jpeg'): remove: path should be string, bytes or os.PathLike, not tuple
+Error removing file ('D:/ML_LOCAL_WIN/archive\\AbdomenCT\\002010.jpeg', 'D:/ML_LOCAL_WIN/archive\\AbdomenCT\\001937.jpeg'): remove: path should be string, bytes or os.PathLike, not tuple
+Error removing file ('D:/ML_LOCAL_WIN/archive\\AbdomenCT\\002013.jpeg', 'D:/ML_LOCAL_WIN/archive\\AbdomenCT\\001941.jpeg'): remove: path should be string, bytes or os.PathLike, not tuple
+Error removing file ('D:/ML_LOCAL_WIN/archive\\AbdomenCT\\002014.jpeg', 'D:/ML_LOCAL_WIN/archive\\AbdomenCT\\001990.jpeg'): remove: path should be string, bytes or os.PathLike, not tuple
+Error removing file ('D:/ML_LOCAL_WIN/archive\\AbdomenCT\\002016.jpeg', 'D:/ML_LOCAL_WIN/archive\\AbdomenCT\\001960.jpeg'): remove: path should be string, bytes or os.PathLike, not tuple
+Error removing file ('D:/ML_LOCAL_WIN/archive\\AbdomenCT\\002017.jpeg', 'D:/ML_LOCAL_WIN/archive\\AbdomenCT\\001878.jpeg'): remove: path should be string, bytes or os.PathLike, not tuple
+Error removing file ('D:/ML_LOCAL_WIN/archive\\AbdomenCT\\002019.jpeg', 'D:/ML_LOCAL_WIN/archive\\AbdomenCT\\001819.jpeg'): remove: path should be string, bytes or os.PathLike, not tuple
+Error removing file ('D:/ML_LOCAL_WIN/archive\\AbdomenCT\\002020.jpeg', 'D:/ML_LOCAL_WIN/archive\\AbdomenCT\\001815.jpeg'): remove: path should be string, bytes or os.PathLike, not tuple
+Error removing file ('D:/ML_LOCAL_WIN/archive\\AbdomenCT\\002021.jpeg', 'D:/ML_LOCAL_WIN/archive\\AbdomenCT\\001832.jpeg'): remove: path should be string, bytes or os.PathLike, not tuple
+Error removing file ('D:/ML_LOCAL_WIN/archive\\AbdomenCT\\002025.jpeg', 'D:/ML_LOCAL_WIN/archive\\AbdomenCT\\001902.jpeg'): remove: path should be string, bytes or os.PathLike, not tuple
+Error removing file ('D:/ML_LOCAL_WIN/archive\\AbdomenCT\\002026.jpeg', 'D:/ML_LOCAL_WIN/archive\\AbdomenCT\\001908.jpeg'): remove: path should be string, bytes or os.PathLike, not tuple
+Error removing file ('D:/ML_LOCAL_WIN/archive\\AbdomenCT\\002028.jpeg', 'D:/ML_LOCAL_WIN/archive\\AbdomenCT\\001935.jpeg'): remove: path should be string, bytes or os.PathLike, not tuple
+Error removing file ('D:/ML_LOCAL_WIN/archive\\AbdomenCT\\002029.jpeg', 'D:/ML_LOCAL_WIN/archive\\AbdomenCT\\001888.jpeg'): remove: path should be string, bytes or os.PathLike, not tuple
+Error removing file ('D:/ML_LOCAL_WIN/archive\\AbdomenCT\\002032.jpeg', 'D:/ML_LOCAL_WIN/archive\\AbdomenCT\\001890.jpeg'): remove: path should be string, bytes or os.PathLike, not tuple
+Error removing file ('D:/ML_LOCAL_WIN/archive\\AbdomenCT\\002033.jpeg', 'D:/ML_LOCAL_WIN/archive\\AbdomenCT\\001898.jpeg'): remove: path should be string, bytes or os.PathLike, not tuple
+Error removing file ('D:/ML_LOCAL_WIN/archive\\AbdomenCT\\002035.jpeg', 'D:/ML_LOCAL_WIN/archive\\AbdomenCT\\001968.jpeg'): remove: path should be string, bytes or os.PathLike, not tuple
+Error removing file ('D:/ML_LOCAL_WIN/archive\\AbdomenCT\\002037.jpeg', 'D:/ML_LOCAL_WIN/archive\\AbdomenCT\\001923.jpeg'): remove: path should be string, bytes or os.PathLike, not tuple
+Error removing file ('D:/ML_LOCAL_WIN/archive\\AbdomenCT\\002038.jpeg', 'D:/ML_LOCAL_WIN/archive\\AbdomenCT\\001932.jpeg'): remove: path should be string, bytes or os.PathLike, not tuple
+Error removing file ('D:/ML_LOCAL_WIN/archive\\AbdomenCT\\002041.jpeg', 'D:/ML_LOCAL_WIN/archive\\AbdomenCT\\001930.jpeg'): remove: path should be string, bytes or os.PathLike, not tuple
+Error removing file ('D:/ML_LOCAL_WIN/archive\\AbdomenCT\\002042.jpeg', 'D:/ML_LOCAL_WIN/archive\\AbdomenCT\\001996.jpeg'): remove: path should be string, bytes or os.PathLike, not tuple
+Error removing file ('D:/ML_LOCAL_WIN/archive\\AbdomenCT\\002043.jpeg', 'D:/ML_LOCAL_WIN/archive\\AbdomenCT\\001921.jpeg'): remove: path should be string, bytes or os.PathLike, not tuple
+Error removing file ('D:/ML_LOCAL_WIN/archive\\AbdomenCT\\002044.jpeg', 'D:/ML_LOCAL_WIN/archive\\AbdomenCT\\001917.jpeg'): remove: path should be string, bytes or os.PathLike, not tuple
+Error removing file ('D:/ML_LOCAL_WIN/archive\\AbdomenCT\\002046.jpeg', 'D:/ML_LOCAL_WIN/archive\\AbdomenCT\\001828.jpeg'): remove: path should be string, bytes or os.PathLike, not tuple
+Error removing file ('D:/ML_LOCAL_WIN/archive\\AbdomenCT\\002047.jpeg', 'D:/ML_LOCAL_WIN/archive\\AbdomenCT\\001899.jpeg'): remove: path should be string, bytes or os.PathLike, not tuple
+Error removing file ('D:/ML_LOCAL_WIN/archive\\AbdomenCT\\002048.jpeg', 'D:/ML_LOCAL_WIN/archive\\AbdomenCT\\001841.jpeg'): remove: path should be string, bytes or os.PathLike, not tuple
+Error removing file ('D:/ML_LOCAL_WIN/archive\\AbdomenCT\\002049.jpeg', 'D:/ML_LOCAL_WIN/archive\\AbdomenCT\\001984.jpeg'): remove: path should be string, bytes or os.PathLike, not tuple
+Error removing file ('D:/ML_LOCAL_WIN/archive\\AbdomenCT\\002051.jpeg', 'D:/ML_LOCAL_WIN/archive\\AbdomenCT\\002022.jpeg'): remove: path should be string, bytes or os.PathLike, not tuple
+Error removing file ('D:/ML_LOCAL_WIN/archive\\AbdomenCT\\002052.jpeg', 'D:/ML_LOCAL_WIN/archive\\AbdomenCT\\001818.jpeg'): remove: path should be string, bytes or os.PathLike, not tuple
+Error removing file ('D:/ML_LOCAL_WIN/archive\\AbdomenCT\\002053.jpeg', 'D:/ML_LOCAL_WIN/archive\\AbdomenCT\\002034.jpeg'): remove: path should be string, bytes or os.PathLike, not tuple
+Error removing file ('D:/ML_LOCAL_WIN/archive\\AbdomenCT\\002054.jpeg', 'D:/ML_LOCAL_WIN/archive\\AbdomenCT\\001951.jpeg'): remove: path should be string, bytes or os.PathLike, not tuple
+Error removing file ('D:/ML_LOCAL_WIN/archive\\AbdomenCT\\002056.jpeg', 'D:/ML_LOCAL_WIN/archive\\AbdomenCT\\001889.jpeg'): remove: path should be string, bytes or os.PathLike, not tuple
+Error removing file ('D:/ML_LOCAL_WIN/archive\\AbdomenCT\\002058.jpeg', 'D:/ML_LOCAL_WIN/archive\\AbdomenCT\\002036.jpeg'): remove: path should be string, bytes or os.PathLike, not tuple
+Error removing file ('D:/ML_LOCAL_WIN/archive\\AbdomenCT\\002059.jpeg', 'D:/ML_LOCAL_WIN/archive\\AbdomenCT\\002018.jpeg'): remove: path should be string, bytes or os.PathLike, not tuple
+Error removing file ('D:/ML_LOCAL_WIN/archive\\AbdomenCT\\002060.jpeg', 'D:/ML_LOCAL_WIN/archive\\AbdomenCT\\001858.jpeg'): remove: path should be string, bytes or os.PathLike, not tuple
+Error removing file ('D:/ML_LOCAL_WIN/archive\\AbdomenCT\\002061.jpeg', 'D:/ML_LOCAL_WIN/archive\\AbdomenCT\\001857.jpeg'): remove: path should be string, bytes or os.PathLike, not tuple
+Error removing file ('D:/ML_LOCAL_WIN/archive\\AbdomenCT\\002062.jpeg', 'D:/ML_LOCAL_WIN/archive\\AbdomenCT\\002024.jpeg'): remove: path should be string, bytes or os.PathLike, not tuple
+Error removing file ('D:/ML_LOCAL_WIN/archive\\AbdomenCT\\002063.jpeg', 'D:/ML_LOCAL_WIN/archive\\AbdomenCT\\001821.jpeg'): remove: path should be string, bytes or os.PathLike, not tuple
+Error removing file ('D:/ML_LOCAL_WIN/archive\\AbdomenCT\\002064.jpeg', 'D:/ML_LOCAL_WIN/archive\\AbdomenCT\\002004.jpeg'): remove: path should be string, bytes or os.PathLike, not tuple
+Error removing file ('D:/ML_LOCAL_WIN/archive\\AbdomenCT\\002065.jpeg', 'D:/ML_LOCAL_WIN/archive\\AbdomenCT\\002057.jpeg'): remove: path should be string, bytes or os.PathLike, not tuple
+Error removing file ('D:/ML_LOCAL_WIN/archive\\AbdomenCT\\002066.jpeg', 'D:/ML_LOCAL_WIN/archive\\AbdomenCT\\001967.jpeg'): remove: path should be string, bytes or os.PathLike, not tuple
+Error removing file ('D:/ML_LOCAL_WIN/archive\\AbdomenCT\\002067.jpeg', 'D:/ML_LOCAL_WIN/archive\\AbdomenCT\\001936.jpeg'): remove: path should be string, bytes or os.PathLike, not tuple
+Error removing file ('D:/ML_LOCAL_WIN/archive\\AbdomenCT\\002069.jpeg', 'D:/ML_LOCAL_WIN/archive\\AbdomenCT\\001927.jpeg'): remove: path should be string, bytes or os.PathLike, not tuple
+Error removing file ('D:/ML_LOCAL_WIN/archive\\AbdomenCT\\002070.jpeg', 'D:/ML_LOCAL_WIN/archive\\AbdomenCT\\001965.jpeg'): remove: path should be string, bytes or os.PathLike, not tuple
+Error removing file ('D:/ML_LOCAL_WIN/archive\\AbdomenCT\\002072.jpeg', 'D:/ML_LOCAL_WIN/archive\\AbdomenCT\\001904.jpeg'): remove: path should be string, bytes or os.PathLike, not tuple
+Error removing file ('D:/ML_LOCAL_WIN/archive\\AbdomenCT\\002073.jpeg', 'D:/ML_LOCAL_WIN/archive\\AbdomenCT\\001816.jpeg'): remove: path should be string, bytes or os.PathLike, not tuple
+Error removing file ('D:/ML_LOCAL_WIN/archive\\AbdomenCT\\002074.jpeg', 'D:/ML_LOCAL_WIN/archive\\AbdomenCT\\001825.jpeg'): remove: path should be string, bytes or os.PathLike, not tuple
+Error removing file ('D:/ML_LOCAL_WIN/archive\\AbdomenCT\\002075.jpeg', 'D:/ML_LOCAL_WIN/archive\\AbdomenCT\\001945.jpeg'): remove: path should be string, bytes or os.PathLike, not tuple
+Error removing file ('D:/ML_LOCAL_WIN/archive\\AbdomenCT\\002076.jpeg', 'D:/ML_LOCAL_WIN/archive\\AbdomenCT\\001883.jpeg'): remove: path should be string, bytes or os.PathLike, not tuple
+Error removing file ('D:/ML_LOCAL_WIN/archive\\AbdomenCT\\002079.jpeg', 'D:/ML_LOCAL_WIN/archive\\AbdomenCT\\001962.jpeg'): remove: path should be string, bytes or os.PathLike, not tuple
+Error removing file ('D:/ML_LOCAL_WIN/archive\\AbdomenCT\\002080.jpeg', 'D:/ML_LOCAL_WIN/archive\\AbdomenCT\\002000.jpeg'): remove: path should be string, bytes or os.PathLike, not tuple
+Error removing file ('D:/ML_LOCAL_WIN/archive\\AbdomenCT\\002082.jpeg', 'D:/ML_LOCAL_WIN/archive\\AbdomenCT\\002081.jpeg'): remove: path should be string, bytes or os.PathLike, not tuple
+Error removing file ('D:/ML_LOCAL_WIN/archive\\AbdomenCT\\002084.jpeg', 'D:/ML_LOCAL_WIN/archive\\AbdomenCT\\001924.jpeg'): remove: path should be string, bytes or os.PathLike, not tuple
+Error removing file ('D:/ML_LOCAL_WIN/archive\\AbdomenCT\\002086.jpeg', 'D:/ML_LOCAL_WIN/archive\\AbdomenCT\\001995.jpeg'): remove: path should be string, bytes or os.PathLike, not tuple
+Error removing file ('D:/ML_LOCAL_WIN/archive\\AbdomenCT\\002087.jpeg', 'D:/ML_LOCAL_WIN/archive\\AbdomenCT\\002009.jpeg'): remove: path should be string, bytes or os.PathLike, not tuple
+Error removing file ('D:/ML_LOCAL_WIN/archive\\AbdomenCT\\002088.jpeg', 'D:/ML_LOCAL_WIN/archive\\AbdomenCT\\002071.jpeg'): remove: path should be string, bytes or os.PathLike, not tuple
+Error removing file ('D:/ML_LOCAL_WIN/archive\\AbdomenCT\\002089.jpeg', 'D:/ML_LOCAL_WIN/archive\\AbdomenCT\\002015.jpeg'): remove: path should be string, bytes or os.PathLike, not tuple
+Error removing file ('D:/ML_LOCAL_WIN/archive\\AbdomenCT\\002090.jpeg', 'D:/ML_LOCAL_WIN/archive\\AbdomenCT\\001885.jpeg'): remove: path should be string, bytes or os.PathLike, not tuple
+Error removing file ('D:/ML_LOCAL_WIN/archive\\AbdomenCT\\002091.jpeg', 'D:/ML_LOCAL_WIN/archive\\AbdomenCT\\001987.jpeg'): remove: path should be string, bytes or os.PathLike, not tuple
+Error removing file ('D:/ML_LOCAL_WIN/archive\\AbdomenCT\\002092.jpeg', 'D:/ML_LOCAL_WIN/archive\\AbdomenCT\\002055.jpeg'): remove: path should be string, bytes or os.PathLike, not tuple
+Error removing file ('D:/ML_LOCAL_WIN/archive\\AbdomenCT\\002093.jpeg', 'D:/ML_LOCAL_WIN/archive\\AbdomenCT\\001824.jpeg'): remove: path should be string, bytes or os.PathLike, not tuple
+Error removing file ('D:/ML_LOCAL_WIN/archive\\AbdomenCT\\002094.jpeg', 'D:/ML_LOCAL_WIN/archive\\AbdomenCT\\001851.jpeg'): remove: path should be string, bytes or os.PathLike, not tuple
+Error removing file ('D:/ML_LOCAL_WIN/archive\\AbdomenCT\\002095.jpeg', 'D:/ML_LOCAL_WIN/archive\\AbdomenCT\\001955.jpeg'): remove: path should be string, bytes or os.PathLike, not tuple
+Error removing file ('D:/ML_LOCAL_WIN/archive\\AbdomenCT\\002096.jpeg', 'D:/ML_LOCAL_WIN/archive\\AbdomenCT\\001934.jpeg'): remove: path should be string, bytes or os.PathLike, not tuple
+Error removing file ('D:/ML_LOCAL_WIN/archive\\AbdomenCT\\002098.jpeg', 'D:/ML_LOCAL_WIN/archive\\AbdomenCT\\002007.jpeg'): remove: path should be string, bytes or os.PathLike, not tuple
+Error removing file ('D:/ML_LOCAL_WIN/archive\\AbdomenCT\\002099.jpeg', 'D:/ML_LOCAL_WIN/archive\\AbdomenCT\\001838.jpeg'): remove: path should be string, bytes or os.PathLike, not tuple
+Error removing file ('D:/ML_LOCAL_WIN/archive\\AbdomenCT\\002100.jpeg', 'D:/ML_LOCAL_WIN/archive\\AbdomenCT\\001820.jpeg'): remove: path should be string, bytes or os.PathLike, not tuple
+Error removing file ('D:/ML_LOCAL_WIN/archive\\AbdomenCT\\002102.jpeg', 'D:/ML_LOCAL_WIN/archive\\AbdomenCT\\002031.jpeg'): remove: path should be string, bytes or os.PathLike, not tuple
+Error removing file ('D:/ML_LOCAL_WIN/archive\\AbdomenCT\\002103.jpeg', 'D:/ML_LOCAL_WIN/archive\\AbdomenCT\\001900.jpeg'): remove: path should be string, bytes or os.PathLike, not tuple
+Error removing file ('D:/ML_LOCAL_WIN/archive\\AbdomenCT\\002104.jpeg', 'D:/ML_LOCAL_WIN/archive\\AbdomenCT\\001986.jpeg'): remove: path should be string, bytes or os.PathLike, not tuple
+Error removing file ('D:/ML_LOCAL_WIN/archive\\AbdomenCT\\002105.jpeg', 'D:/ML_LOCAL_WIN/archive\\AbdomenCT\\002068.jpeg'): remove: path should be string, bytes or os.PathLike, not tuple
+Error removing file ('D:/ML_LOCAL_WIN/archive\\AbdomenCT\\002108.jpeg', 'D:/ML_LOCAL_WIN/archive\\AbdomenCT\\001913.jpeg'): remove: path should be string, bytes or os.PathLike, not tuple
+Error removing file ('D:/ML_LOCAL_WIN/archive\\AbdomenCT\\002109.jpeg', 'D:/ML_LOCAL_WIN/archive\\AbdomenCT\\001952.jpeg'): remove: path should be string, bytes or os.PathLike, not tuple
+Error removing file ('D:/ML_LOCAL_WIN/archive\\AbdomenCT\\002110.jpeg', 'D:/ML_LOCAL_WIN/archive\\AbdomenCT\\001956.jpeg'): remove: path should be string, bytes or os.PathLike, not tuple
+Error removing file ('D:/ML_LOCAL_WIN/archive\\AbdomenCT\\002111.jpeg', 'D:/ML_LOCAL_WIN/archive\\AbdomenCT\\001870.jpeg'): remove: path should be string, bytes or os.PathLike, not tuple
+Error removing file ('D:/ML_LOCAL_WIN/archive\\AbdomenCT\\002112.jpeg', 'D:/ML_LOCAL_WIN/archive\\AbdomenCT\\001868.jpeg'): remove: path should be string, bytes or os.PathLike, not tuple
+Error removing file ('D:/ML_LOCAL_WIN/archive\\AbdomenCT\\002113.jpeg', 'D:/ML_LOCAL_WIN/archive\\AbdomenCT\\001993.jpeg'): remove: path should be string, bytes or os.PathLike, not tuple
+Error removing file ('D:/ML_LOCAL_WIN/archive\\AbdomenCT\\002114.jpeg', 'D:/ML_LOCAL_WIN/archive\\AbdomenCT\\002085.jpeg'): remove: path should be string, bytes or os.PathLike, not tuple
+Error removing file ('D:/ML_LOCAL_WIN/archive\\AbdomenCT\\002115.jpeg', 'D:/ML_LOCAL_WIN/archive\\AbdomenCT\\002027.jpeg'): remove: path should be string, bytes or os.PathLike, not tuple
+Error removing file ('D:/ML_LOCAL_WIN/archive\\AbdomenCT\\002117.jpeg', 'D:/ML_LOCAL_WIN/archive\\AbdomenCT\\001910.jpeg'): remove: path should be string, bytes or os.PathLike, not tuple
+Error removing file ('D:/ML_LOCAL_WIN/archive\\AbdomenCT\\002118.jpeg', 'D:/ML_LOCAL_WIN/archive\\AbdomenCT\\001847.jpeg'): remove: path should be string, bytes or os.PathLike, not tuple
+Error removing file ('D:/ML_LOCAL_WIN/archive\\AbdomenCT\\002120.jpeg', 'D:/ML_LOCAL_WIN/archive\\AbdomenCT\\001994.jpeg'): remove: path should be string, bytes or os.PathLike, not tuple
+Error removing file ('D:/ML_LOCAL_WIN/archive\\AbdomenCT\\002121.jpeg', 'D:/ML_LOCAL_WIN/archive\\AbdomenCT\\002039.jpeg'): remove: path should be string, bytes or os.PathLike, not tuple
+Error removing file ('D:/ML_LOCAL_WIN/archive\\AbdomenCT\\002123.jpeg', 'D:/ML_LOCAL_WIN/archive\\AbdomenCT\\002008.jpeg'): remove: path should be string, bytes or os.PathLike, not tuple
+Error removing file ('D:/ML_LOCAL_WIN/archive\\AbdomenCT\\002124.jpeg', 'D:/ML_LOCAL_WIN/archive\\AbdomenCT\\002078.jpeg'): remove: path should be string, bytes or os.PathLike, not tuple
+Error removing file ('D:/ML_LOCAL_WIN/archive\\AbdomenCT\\002125.jpeg', 'D:/ML_LOCAL_WIN/archive\\AbdomenCT\\002001.jpeg'): remove: path should be string, bytes or os.PathLike, not tuple
+Error removing file ('D:/ML_LOCAL_WIN/archive\\AbdomenCT\\002126.jpeg', 'D:/ML_LOCAL_WIN/archive\\AbdomenCT\\001918.jpeg'): remove: path should be string, bytes or os.PathLike, not tuple
+Error removing file ('D:/ML_LOCAL_WIN/archive\\AbdomenCT\\002127.jpeg', 'D:/ML_LOCAL_WIN/archive\\AbdomenCT\\001985.jpeg'): remove: path should be string, bytes or os.PathLike, not tuple
+Error removing file ('D:/ML_LOCAL_WIN/archive\\AbdomenCT\\002128.jpeg', 'D:/ML_LOCAL_WIN/archive\\AbdomenCT\\001950.jpeg'): remove: path should be string, bytes or os.PathLike, not tuple
+Error removing file ('D:/ML_LOCAL_WIN/archive\\AbdomenCT\\002130.jpeg', 'D:/ML_LOCAL_WIN/archive\\AbdomenCT\\001827.jpeg'): remove: path should be string, bytes or os.PathLike, not tuple
+Error removing file ('D:/ML_LOCAL_WIN/archive\\AbdomenCT\\002131.jpeg', 'D:/ML_LOCAL_WIN/archive\\AbdomenCT\\001973.jpeg'): remove: path should be string, bytes or os.PathLike, not tuple
+Error removing file ('D:/ML_LOCAL_WIN/archive\\AbdomenCT\\002132.jpeg', 'D:/ML_LOCAL_WIN/archive\\AbdomenCT\\001912.jpeg'): remove: path should be string, bytes or os.PathLike, not tuple
+Error removing file ('D:/ML_LOCAL_WIN/archive\\AbdomenCT\\002133.jpeg', 'D:/ML_LOCAL_WIN/archive\\AbdomenCT\\001886.jpeg'): remove: path should be string, bytes or os.PathLike, not tuple
+Error removing file ('D:/ML_LOCAL_WIN/archive\\AbdomenCT\\002134.jpeg', 'D:/ML_LOCAL_WIN/archive\\AbdomenCT\\002011.jpeg'): remove: path should be string, bytes or os.PathLike, not tuple
+Error removing file ('D:/ML_LOCAL_WIN/archive\\AbdomenCT\\002135.jpeg', 'D:/ML_LOCAL_WIN/archive\\AbdomenCT\\002030.jpeg'): remove: path should be string, bytes or os.PathLike, not tuple
+Error removing file ('D:/ML_LOCAL_WIN/archive\\AbdomenCT\\002136.jpeg', 'D:/ML_LOCAL_WIN/archive\\AbdomenCT\\002106.jpeg'): remove: path should be string, bytes or os.PathLike, not tuple
+Error removing file ('D:/ML_LOCAL_WIN/archive\\AbdomenCT\\002137.jpeg', 'D:/ML_LOCAL_WIN/archive\\AbdomenCT\\001979.jpeg'): remove: path should be string, bytes or os.PathLike, not tuple
+Error removing file ('D:/ML_LOCAL_WIN/archive\\AbdomenCT\\002138.jpeg', 'D:/ML_LOCAL_WIN/archive\\AbdomenCT\\002101.jpeg'): remove: path should be string, bytes or os.PathLike, not tuple
+Error removing file ('D:/ML_LOCAL_WIN/archive\\AbdomenCT\\002139.jpeg', 'D:/ML_LOCAL_WIN/archive\\AbdomenCT\\002129.jpeg'): remove: path should be string, bytes or os.PathLike, not tuple
+Error removing file ('D:/ML_LOCAL_WIN/archive\\AbdomenCT\\002140.jpeg', 'D:/ML_LOCAL_WIN/archive\\AbdomenCT\\001907.jpeg'): remove: path should be string, bytes or os.PathLike, not tuple
+Error removing file ('D:/ML_LOCAL_WIN/archive\\AbdomenCT\\002141.jpeg', 'D:/ML_LOCAL_WIN/archive\\AbdomenCT\\002050.jpeg'): remove: path should be string, bytes or os.PathLike, not tuple
+Error removing file ('D:/ML_LOCAL_WIN/archive\\AbdomenCT\\002142.jpeg', 'D:/ML_LOCAL_WIN/archive\\AbdomenCT\\001963.jpeg'): remove: path should be string, bytes or os.PathLike, not tuple
+Error removing file ('D:/ML_LOCAL_WIN/archive\\AbdomenCT\\002143.jpeg', 'D:/ML_LOCAL_WIN/archive\\AbdomenCT\\002122.jpeg'): remove: path should be string, bytes or os.PathLike, not tuple
+Error removing file ('D:/ML_LOCAL_WIN/archive\\AbdomenCT\\002144.jpeg', 'D:/ML_LOCAL_WIN/archive\\AbdomenCT\\001972.jpeg'): remove: path should be string, bytes or os.PathLike, not tuple
+Error removing file ('D:/ML_LOCAL_WIN/archive\\AbdomenCT\\002145.jpeg', 'D:/ML_LOCAL_WIN/archive\\AbdomenCT\\002116.jpeg'): remove: path should be string, bytes or os.PathLike, not tuple
+Error removing file ('D:/ML_LOCAL_WIN/archive\\AbdomenCT\\002146.jpeg', 'D:/ML_LOCAL_WIN/archive\\AbdomenCT\\001983.jpeg'): remove: path should be string, bytes or os.PathLike, not tuple
+Error removing file ('D:/ML_LOCAL_WIN/archive\\AbdomenCT\\002147.jpeg', 'D:/ML_LOCAL_WIN/archive\\AbdomenCT\\002003.jpeg'): remove: path should be string, bytes or os.PathLike, not tuple
+Error removing file ('D:/ML_LOCAL_WIN/archive\\AbdomenCT\\002148.jpeg', 'D:/ML_LOCAL_WIN/archive\\AbdomenCT\\001839.jpeg'): remove: path should be string, bytes or os.PathLike, not tuple
+Error removing file ('D:/ML_LOCAL_WIN/archive\\AbdomenCT\\002149.jpeg', 'D:/ML_LOCAL_WIN/archive\\AbdomenCT\\002045.jpeg'): remove: path should be string, bytes or os.PathLike, not tuple
+Error removing file ('D:/ML_LOCAL_WIN/archive\\AbdomenCT\\002150.jpeg', 'D:/ML_LOCAL_WIN/archive\\AbdomenCT\\001855.jpeg'): remove: path should be string, bytes or os.PathLike, not tuple
+Error removing file ('D:/ML_LOCAL_WIN/archive\\AbdomenCT\\002151.jpeg', 'D:/ML_LOCAL_WIN/archive\\AbdomenCT\\002083.jpeg'): remove: path should be string, bytes or os.PathLike, not tuple
+Error removing file ('D:/ML_LOCAL_WIN/archive\\AbdomenCT\\002152.jpeg', 'D:/ML_LOCAL_WIN/archive\\AbdomenCT\\001940.jpeg'): remove: path should be string, bytes or os.PathLike, not tuple
+Error removing file ('D:/ML_LOCAL_WIN/archive\\AbdomenCT\\002153.jpeg', 'D:/ML_LOCAL_WIN/archive\\AbdomenCT\\002012.jpeg'): remove: path should be string, bytes or os.PathLike, not tuple
+Error removing file ('D:/ML_LOCAL_WIN/archive\\AbdomenCT\\002154.jpeg', 'D:/ML_LOCAL_WIN/archive\\AbdomenCT\\002107.jpeg'): remove: path should be string, bytes or os.PathLike, not tuple
+Error removing file ('D:/ML_LOCAL_WIN/archive\\AbdomenCT\\002155.jpeg', 'D:/ML_LOCAL_WIN/archive\\AbdomenCT\\002097.jpeg'): remove: path should be string, bytes or os.PathLike, not tuple
+Error removing file ('D:/ML_LOCAL_WIN/archive\\AbdomenCT\\002157.jpeg', 'D:/ML_LOCAL_WIN/archive\\AbdomenCT\\001863.jpeg'): remove: path should be string, bytes or os.PathLike, not tuple
+Error removing file ('D:/ML_LOCAL_WIN/archive\\AbdomenCT\\002158.jpeg', 'D:/ML_LOCAL_WIN/archive\\AbdomenCT\\001891.jpeg'): remove: path should be string, bytes or os.PathLike, not tuple
+Error removing file ('D:/ML_LOCAL_WIN/archive\\AbdomenCT\\002159.jpeg', 'D:/ML_LOCAL_WIN/archive\\AbdomenCT\\002023.jpeg'): remove: path should be string, bytes or os.PathLike, not tuple
+Error removing file ('D:/ML_LOCAL_WIN/archive\\AbdomenCT\\002160.jpeg', 'D:/ML_LOCAL_WIN/archive\\AbdomenCT\\002040.jpeg'): remove: path should be string, bytes or os.PathLike, not tuple
+Error removing file ('D:/ML_LOCAL_WIN/archive\\AbdomenCT\\002161.jpeg', 'D:/ML_LOCAL_WIN/archive\\AbdomenCT\\002156.jpeg'): remove: path should be string, bytes or os.PathLike, not tuple
+Error removing file ('D:/ML_LOCAL_WIN/archive\\AbdomenCT\\002162.jpeg', 'D:/ML_LOCAL_WIN/archive\\AbdomenCT\\002119.jpeg'): remove: path should be string, bytes or os.PathLike, not tuple
+Error removing file ('D:/ML_LOCAL_WIN/archive\\AbdomenCT\\002163.jpeg', 'D:/ML_LOCAL_WIN/archive\\AbdomenCT\\001853.jpeg'): remove: path should be string, bytes or os.PathLike, not tuple
+Error removing file ('D:/ML_LOCAL_WIN/archive\\AbdomenCT\\002164.jpeg', 'D:/ML_LOCAL_WIN/archive\\AbdomenCT\\002077.jpeg'): remove: path should be string, bytes or os.PathLike, not tuple
+Error removing file ('D:/ML_LOCAL_WIN/archive\\AbdomenCT\\002165.jpeg', 'D:/ML_LOCAL_WIN/archive\\AbdomenCT\\001813.jpeg'): remove: path should be string, bytes or os.PathLike, not tuple
+Error removing file ('D:/ML_LOCAL_WIN/archive\\AbdomenCT\\002166.jpeg', 'D:/ML_LOCAL_WIN/archive\\AbdomenCT\\001992.jpeg'): remove: path should be string, bytes or os.PathLike, not tuple
+Error removing file ('D:/ML_LOCAL_WIN/archive\\AbdomenCT\\002167.jpeg', 'D:/ML_LOCAL_WIN/archive\\AbdomenCT\\001879.jpeg'): remove: path should be string, bytes or os.PathLike, not tuple
+Error removing file ('D:/ML_LOCAL_WIN/archive\\AbdomenCT\\002243.jpeg', 'D:/ML_LOCAL_WIN/archive\\AbdomenCT\\002175.jpeg'): remove: path should be string, bytes or os.PathLike, not tuple
+Error removing file ('D:/ML_LOCAL_WIN/archive\\AbdomenCT\\006627.jpeg', 'D:/ML_LOCAL_WIN/archive\\AbdomenCT\\006521.jpeg'): remove: path should be string, bytes or os.PathLike, not tuple
+Error removing file ('D:/ML_LOCAL_WIN/archive\\AbdomenCT\\006631.jpeg', 'D:/ML_LOCAL_WIN/archive\\AbdomenCT\\006423.jpeg'): remove: path should be string, bytes or os.PathLike, not tuple
+Error removing file ('D:/ML_LOCAL_WIN/archive\\AbdomenCT\\006636.jpeg', 'D:/ML_LOCAL_WIN/archive\\AbdomenCT\\006421.jpeg'): remove: path should be string, bytes or os.PathLike, not tuple
+Error removing file ('D:/ML_LOCAL_WIN/archive\\AbdomenCT\\006639.jpeg', 'D:/ML_LOCAL_WIN/archive\\AbdomenCT\\006485.jpeg'): remove: path should be string, bytes or os.PathLike, not tuple
+Error removing file ('D:/ML_LOCAL_WIN/archive\\AbdomenCT\\006653.jpeg', 'D:/ML_LOCAL_WIN/archive\\AbdomenCT\\006410.jpeg'): remove: path should be string, bytes or os.PathLike, not tuple
+Error removing file ('D:/ML_LOCAL_WIN/archive\\AbdomenCT\\006661.jpeg', 'D:/ML_LOCAL_WIN/archive\\AbdomenCT\\006402.jpeg'): remove: path should be string, bytes or os.PathLike, not tuple
+Error removing file ('D:/ML_LOCAL_WIN/archive\\AbdomenCT\\006662.jpeg', 'D:/ML_LOCAL_WIN/archive\\AbdomenCT\\006388.jpeg'): remove: path should be string, bytes or os.PathLike, not tuple
+Error removing file ('D:/ML_LOCAL_WIN/archive\\AbdomenCT\\006677.jpeg', 'D:/ML_LOCAL_WIN/archive\\AbdomenCT\\006450.jpeg'): remove: path should be string, bytes or os.PathLike, not tuple
+Error removing file ('D:/ML_LOCAL_WIN/archive\\AbdomenCT\\006688.jpeg', 'D:/ML_LOCAL_WIN/archive\\AbdomenCT\\006549.jpeg'): remove: path should be string, bytes or os.PathLike, not tuple
+Error removing file ('D:/ML_LOCAL_WIN/archive\\AbdomenCT\\006691.jpeg', 'D:/ML_LOCAL_WIN/archive\\AbdomenCT\\006387.jpeg'): remove: path should be string, bytes or os.PathLike, not tuple
+Error removing file ('D:/ML_LOCAL_WIN/archive\\AbdomenCT\\006693.jpeg', 'D:/ML_LOCAL_WIN/archive\\AbdomenCT\\006493.jpeg'): remove: path should be string, bytes or os.PathLike, not tuple
+Error removing file ('D:/ML_LOCAL_WIN/archive\\AbdomenCT\\006700.jpeg', 'D:/ML_LOCAL_WIN/archive\\AbdomenCT\\006504.jpeg'): remove: path should be string, bytes or os.PathLike, not tuple
+Error removing file ('D:/ML_LOCAL_WIN/archive\\AbdomenCT\\006712.jpeg', 'D:/ML_LOCAL_WIN/archive\\AbdomenCT\\006438.jpeg'): remove: path should be string, bytes or os.PathLike, not tuple
+Error removing file ('D:/ML_LOCAL_WIN/archive\\AbdomenCT\\006724.jpeg', 'D:/ML_LOCAL_WIN/archive\\AbdomenCT\\006548.jpeg'): remove: path should be string, bytes or os.PathLike, not tuple
+Error removing file ('D:/ML_LOCAL_WIN/archive\\AbdomenCT\\006726.jpeg', 'D:/ML_LOCAL_WIN/archive\\AbdomenCT\\006426.jpeg'): remove: path should be string, bytes or os.PathLike, not tuple
+Error removing file ('D:/ML_LOCAL_WIN/archive\\AbdomenCT\\006734.jpeg', 'D:/ML_LOCAL_WIN/archive\\AbdomenCT\\006418.jpeg'): remove: path should be string, bytes or os.PathLike, not tuple
+Error removing file ('D:/ML_LOCAL_WIN/archive\\AbdomenCT\\006744.jpeg', 'D:/ML_LOCAL_WIN/archive\\AbdomenCT\\006494.jpeg'): remove: path should be string, bytes or os.PathLike, not tuple
+Error removing file ('D:/ML_LOCAL_WIN/archive\\AbdomenCT\\006748.jpeg', 'D:/ML_LOCAL_WIN/archive\\AbdomenCT\\006451.jpeg'): remove: path should be string, bytes or os.PathLike, not tuple
+Error removing file ('D:/ML_LOCAL_WIN/archive\\AbdomenCT\\006755.jpeg', 'D:/ML_LOCAL_WIN/archive\\AbdomenCT\\006474.jpeg'): remove: path should be string, bytes or os.PathLike, not tuple
+Error removing file ('D:/ML_LOCAL_WIN/archive\\AbdomenCT\\006769.jpeg', 'D:/ML_LOCAL_WIN/archive\\AbdomenCT\\006380.jpeg'): remove: path should be string, bytes or os.PathLike, not tuple
+Error removing file ('D:/ML_LOCAL_WIN/archive\\AbdomenCT\\006776.jpeg', 'D:/ML_LOCAL_WIN/archive\\AbdomenCT\\006416.jpeg'): remove: path should be string, bytes or os.PathLike, not tuple
+Error removing file ('D:/ML_LOCAL_WIN/archive\\AbdomenCT\\006780.jpeg', 'D:/ML_LOCAL_WIN/archive\\AbdomenCT\\006516.jpeg'): remove: path should be string, bytes or os.PathLike, not tuple
+Error removing file ('D:/ML_LOCAL_WIN/archive\\AbdomenCT\\006781.jpeg', 'D:/ML_LOCAL_WIN/archive\\AbdomenCT\\006443.jpeg'): remove: path should be string, bytes or os.PathLike, not tuple
+Error removing file ('D:/ML_LOCAL_WIN/archive\\AbdomenCT\\006788.jpeg', 'D:/ML_LOCAL_WIN/archive\\AbdomenCT\\006469.jpeg'): remove: path should be string, bytes or os.PathLike, not tuple
+Error removing file ('D:/ML_LOCAL_WIN/archive\\AbdomenCT\\006806.jpeg', 'D:/ML_LOCAL_WIN/archive\\AbdomenCT\\006389.jpeg'): remove: path should be string, bytes or os.PathLike, not tuple
+Error removing file ('D:/ML_LOCAL_WIN/archive\\AbdomenCT\\006815.jpeg', 'D:/ML_LOCAL_WIN/archive\\AbdomenCT\\006480.jpeg'): remove: path should be string, bytes or os.PathLike, not tuple
+Error removing file ('D:/ML_LOCAL_WIN/archive\\AbdomenCT\\006817.jpeg', 'D:/ML_LOCAL_WIN/archive\\AbdomenCT\\006523.jpeg'): remove: path should be string, bytes or os.PathLike, not tuple
+Error removing file ('D:/ML_LOCAL_WIN/archive\\AbdomenCT\\006824.jpeg', 'D:/ML_LOCAL_WIN/archive\\AbdomenCT\\006454.jpeg'): remove: path should be string, bytes or os.PathLike, not tuple
+Error removing file ('D:/ML_LOCAL_WIN/archive\\AbdomenCT\\006826.jpeg', 'D:/ML_LOCAL_WIN/archive\\AbdomenCT\\006440.jpeg'): remove: path should be string, bytes or os.PathLike, not tuple
+Error removing file ('D:/ML_LOCAL_WIN/archive\\AbdomenCT\\006832.jpeg', 'D:/ML_LOCAL_WIN/archive\\AbdomenCT\\006439.jpeg'): remove: path should be string, bytes or os.PathLike, not tuple
+Error removing file ('D:/ML_LOCAL_WIN/archive\\AbdomenCT\\006839.jpeg', 'D:/ML_LOCAL_WIN/archive\\AbdomenCT\\006373.jpeg'): remove: path should be string, bytes or os.PathLike, not tuple
+Error removing file ('D:/ML_LOCAL_WIN/archive\\AbdomenCT\\006844.jpeg', 'D:/ML_LOCAL_WIN/archive\\AbdomenCT\\006420.jpeg'): remove: path should be string, bytes or os.PathLike, not tuple
+Error removing file ('D:/ML_LOCAL_WIN/archive\\AbdomenCT\\006849.jpeg', 'D:/ML_LOCAL_WIN/archive\\AbdomenCT\\006430.jpeg'): remove: path should be string, bytes or os.PathLike, not tuple
+Error removing file ('D:/ML_LOCAL_WIN/archive\\AbdomenCT\\006853.jpeg', 'D:/ML_LOCAL_WIN/archive\\AbdomenCT\\006370.jpeg'): remove: path should be string, bytes or os.PathLike, not tuple
+Error removing file ('D:/ML_LOCAL_WIN/archive\\AbdomenCT\\006856.jpeg', 'D:/ML_LOCAL_WIN/archive\\AbdomenCT\\006481.jpeg'): remove: path should be string, bytes or os.PathLike, not tuple
+Error removing file ('D:/ML_LOCAL_WIN/archive\\AbdomenCT\\006865.jpeg', 'D:/ML_LOCAL_WIN/archive\\AbdomenCT\\006453.jpeg'): remove: path should be string, bytes or os.PathLike, not tuple
+Error removing file ('D:/ML_LOCAL_WIN/archive\\AbdomenCT\\006880.jpeg', 'D:/ML_LOCAL_WIN/archive\\AbdomenCT\\006529.jpeg'): remove: path should be string, bytes or os.PathLike, not tuple
+Error removing file ('D:/ML_LOCAL_WIN/archive\\AbdomenCT\\006888.jpeg', 'D:/ML_LOCAL_WIN/archive\\AbdomenCT\\006515.jpeg'): remove: path should be string, bytes or os.PathLike, not tuple
+Error removing file ('D:/ML_LOCAL_WIN/archive\\AbdomenCT\\006900.jpeg', 'D:/ML_LOCAL_WIN/archive\\AbdomenCT\\006525.jpeg'): remove: path should be string, bytes or os.PathLike, not tuple
+Error removing file ('D:/ML_LOCAL_WIN/archive\\AbdomenCT\\006906.jpeg', 'D:/ML_LOCAL_WIN/archive\\AbdomenCT\\006484.jpeg'): remove: path should be string, bytes or os.PathLike, not tuple
+Error removing file ('D:/ML_LOCAL_WIN/archive\\AbdomenCT\\006911.jpeg', 'D:/ML_LOCAL_WIN/archive\\AbdomenCT\\006391.jpeg'): remove: path should be string, bytes or os.PathLike, not tuple
+Error removing file ('D:/ML_LOCAL_WIN/archive\\AbdomenCT\\006913.jpeg', 'D:/ML_LOCAL_WIN/archive\\AbdomenCT\\006546.jpeg'): remove: path should be string, bytes or os.PathLike, not tuple
+Error removing file ('D:/ML_LOCAL_WIN/archive\\AbdomenCT\\006919.jpeg', 'D:/ML_LOCAL_WIN/archive\\AbdomenCT\\006501.jpeg'): remove: path should be string, bytes or os.PathLike, not tuple
+Error removing file ('D:/ML_LOCAL_WIN/archive\\AbdomenCT\\006925.jpeg', 'D:/ML_LOCAL_WIN/archive\\AbdomenCT\\006537.jpeg'): remove: path should be string, bytes or os.PathLike, not tuple
+Checking for duplicates in folder: BreastMRI
+No duplicates found in folder 'BreastMRI'.
+No duplicates found in folder 'BreastMRI'.
+Checking for duplicates in folder: ChestCT
+No duplicates found in folder 'ChestCT'.
+No duplicates found in folder 'ChestCT'.
+Checking for duplicates in folder: CXR
+Found duplicates in folder 'CXR':
+Duplicate: D:/ML_LOCAL_WIN/archive\CXR\001462.jpeg and D:/ML_LOCAL_WIN/archive\CXR\000229.jpeg
+Removing duplicates in folder 'CXR':
+Error removing file ('D:/ML_LOCAL_WIN/archive\\CXR\\001462.jpeg', 'D:/ML_LOCAL_WIN/archive\\CXR\\000229.jpeg'): remove: path should be string, bytes or os.PathLike, not tuple
+Checking for duplicates in folder: Hand
+No duplicates found in folder 'Hand'.
+No duplicates found in folder 'Hand'.
+Checking for duplicates in folder: HeadCT
+Found duplicates in folder 'HeadCT':
+Duplicate: D:/ML_LOCAL_WIN/archive\HeadCT\000046.jpeg and D:/ML_LOCAL_WIN/archive\HeadCT\000044.jpeg
+Duplicate: D:/ML_LOCAL_WIN/archive\HeadCT\000050.jpeg and D:/ML_LOCAL_WIN/archive\HeadCT\000044.jpeg
+Duplicate: D:/ML_LOCAL_WIN/archive\HeadCT\000054.jpeg and D:/ML_LOCAL_WIN/archive\HeadCT\000044.jpeg
+Duplicate: D:/ML_LOCAL_WIN/archive\HeadCT\000228.jpeg and D:/ML_LOCAL_WIN/archive\HeadCT\000044.jpeg
+Duplicate: D:/ML_LOCAL_WIN/archive\HeadCT\000374.jpeg and D:/ML_LOCAL_WIN/archive\HeadCT\000044.jpeg
+Duplicate: D:/ML_LOCAL_WIN/archive\HeadCT\000380.jpeg and D:/ML_LOCAL_WIN/archive\HeadCT\000044.jpeg
+Duplicate: D:/ML_LOCAL_WIN/archive\HeadCT\000422.jpeg and D:/ML_LOCAL_WIN/archive\HeadCT\000044.jpeg
+Duplicate: D:/ML_LOCAL_WIN/archive\HeadCT\000585.jpeg and D:/ML_LOCAL_WIN/archive\HeadCT\000044.jpeg
+Duplicate: D:/ML_LOCAL_WIN/archive\HeadCT\001043.jpeg and D:/ML_LOCAL_WIN/archive\HeadCT\000044.jpeg
+Duplicate: D:/ML_LOCAL_WIN/archive\HeadCT\001160.jpeg and D:/ML_LOCAL_WIN/archive\HeadCT\000044.jpeg
+Duplicate: D:/ML_LOCAL_WIN/archive\HeadCT\001251.jpeg and D:/ML_LOCAL_WIN/archive\HeadCT\000044.jpeg
+Duplicate: D:/ML_LOCAL_WIN/archive\HeadCT\001471.jpeg and D:/ML_LOCAL_WIN/archive\HeadCT\000044.jpeg
+Duplicate: D:/ML_LOCAL_WIN/archive\HeadCT\001497.jpeg and D:/ML_LOCAL_WIN/archive\HeadCT\000044.jpeg
+Duplicate: D:/ML_LOCAL_WIN/archive\HeadCT\001775.jpeg and D:/ML_LOCAL_WIN/archive\HeadCT\000044.jpeg
+Duplicate: D:/ML_LOCAL_WIN/archive\HeadCT\002065.jpeg and D:/ML_LOCAL_WIN/archive\HeadCT\000044.jpeg
+Duplicate: D:/ML_LOCAL_WIN/archive\HeadCT\002133.jpeg and D:/ML_LOCAL_WIN/archive\HeadCT\000044.jpeg
+Duplicate: D:/ML_LOCAL_WIN/archive\HeadCT\002203.jpeg and D:/ML_LOCAL_WIN/archive\HeadCT\000044.jpeg
+Duplicate: D:/ML_LOCAL_WIN/archive\HeadCT\002260.jpeg and D:/ML_LOCAL_WIN/archive\HeadCT\000044.jpeg
+Duplicate: D:/ML_LOCAL_WIN/archive\HeadCT\002341.jpeg and D:/ML_LOCAL_WIN/archive\HeadCT\000044.jpeg
+Duplicate: D:/ML_LOCAL_WIN/archive\HeadCT\002488.jpeg and D:/ML_LOCAL_WIN/archive\HeadCT\000044.jpeg
+Duplicate: D:/ML_LOCAL_WIN/archive\HeadCT\002508.jpeg and D:/ML_LOCAL_WIN/archive\HeadCT\000044.jpeg
+Duplicate: D:/ML_LOCAL_WIN/archive\HeadCT\002510.jpeg and D:/ML_LOCAL_WIN/archive\HeadCT\000044.jpeg
+Duplicate: D:/ML_LOCAL_WIN/archive\HeadCT\002691.jpeg and D:/ML_LOCAL_WIN/archive\HeadCT\000044.jpeg
+Duplicate: D:/ML_LOCAL_WIN/archive\HeadCT\002806.jpeg and D:/ML_LOCAL_WIN/archive\HeadCT\000044.jpeg
+Duplicate: D:/ML_LOCAL_WIN/archive\HeadCT\002885.jpeg and D:/ML_LOCAL_WIN/archive\HeadCT\000044.jpeg
+Duplicate: D:/ML_LOCAL_WIN/archive\HeadCT\002889.jpeg and D:/ML_LOCAL_WIN/archive\HeadCT\000044.jpeg
+Duplicate: D:/ML_LOCAL_WIN/archive\HeadCT\003160.jpeg and D:/ML_LOCAL_WIN/archive\HeadCT\000044.jpeg
+Duplicate: D:/ML_LOCAL_WIN/archive\HeadCT\003165.jpeg and D:/ML_LOCAL_WIN/archive\HeadCT\000044.jpeg
+Duplicate: D:/ML_LOCAL_WIN/archive\HeadCT\003239.jpeg and D:/ML_LOCAL_WIN/archive\HeadCT\000044.jpeg
+Duplicate: D:/ML_LOCAL_WIN/archive\HeadCT\003265.jpeg and D:/ML_LOCAL_WIN/archive\HeadCT\000044.jpeg
+Duplicate: D:/ML_LOCAL_WIN/archive\HeadCT\003542.jpeg and D:/ML_LOCAL_WIN/archive\HeadCT\000044.jpeg
+Duplicate: D:/ML_LOCAL_WIN/archive\HeadCT\003547.jpeg and D:/ML_LOCAL_WIN/archive\HeadCT\000044.jpeg
+Duplicate: D:/ML_LOCAL_WIN/archive\HeadCT\003645.jpeg and D:/ML_LOCAL_WIN/archive\HeadCT\000044.jpeg
+Duplicate: D:/ML_LOCAL_WIN/archive\HeadCT\003660.jpeg and D:/ML_LOCAL_WIN/archive\HeadCT\000044.jpeg
+Duplicate: D:/ML_LOCAL_WIN/archive\HeadCT\003887.jpeg and D:/ML_LOCAL_WIN/archive\HeadCT\000044.jpeg
+Duplicate: D:/ML_LOCAL_WIN/archive\HeadCT\003945.jpeg and D:/ML_LOCAL_WIN/archive\HeadCT\000044.jpeg
+Duplicate: D:/ML_LOCAL_WIN/archive\HeadCT\004024.jpeg and D:/ML_LOCAL_WIN/archive\HeadCT\000044.jpeg
+Duplicate: D:/ML_LOCAL_WIN/archive\HeadCT\004028.jpeg and D:/ML_LOCAL_WIN/archive\HeadCT\000044.jpeg
+Duplicate: D:/ML_LOCAL_WIN/archive\HeadCT\004152.jpeg and D:/ML_LOCAL_WIN/archive\HeadCT\000044.jpeg
+Duplicate: D:/ML_LOCAL_WIN/archive\HeadCT\004160.jpeg and D:/ML_LOCAL_WIN/archive\HeadCT\000044.jpeg
+Duplicate: D:/ML_LOCAL_WIN/archive\HeadCT\004201.jpeg and D:/ML_LOCAL_WIN/archive\HeadCT\000044.jpeg
+Duplicate: D:/ML_LOCAL_WIN/archive\HeadCT\004308.jpeg and D:/ML_LOCAL_WIN/archive\HeadCT\000044.jpeg
+Duplicate: D:/ML_LOCAL_WIN/archive\HeadCT\004416.jpeg and D:/ML_LOCAL_WIN/archive\HeadCT\000044.jpeg
+Duplicate: D:/ML_LOCAL_WIN/archive\HeadCT\004945.jpeg and D:/ML_LOCAL_WIN/archive\HeadCT\000044.jpeg
+Duplicate: D:/ML_LOCAL_WIN/archive\HeadCT\004974.jpeg and D:/ML_LOCAL_WIN/archive\HeadCT\000044.jpeg
+Duplicate: D:/ML_LOCAL_WIN/archive\HeadCT\005218.jpeg and D:/ML_LOCAL_WIN/archive\HeadCT\000044.jpeg
+Duplicate: D:/ML_LOCAL_WIN/archive\HeadCT\005419.jpeg and D:/ML_LOCAL_WIN/archive\HeadCT\000044.jpeg
+Duplicate: D:/ML_LOCAL_WIN/archive\HeadCT\005478.jpeg and D:/ML_LOCAL_WIN/archive\HeadCT\000044.jpeg
+Duplicate: D:/ML_LOCAL_WIN/archive\HeadCT\005644.jpeg and D:/ML_LOCAL_WIN/archive\HeadCT\000044.jpeg
+Duplicate: D:/ML_LOCAL_WIN/archive\HeadCT\005670.jpeg and D:/ML_LOCAL_WIN/archive\HeadCT\000044.jpeg
+Duplicate: D:/ML_LOCAL_WIN/archive\HeadCT\005671.jpeg and D:/ML_LOCAL_WIN/archive\HeadCT\000044.jpeg
+Duplicate: D:/ML_LOCAL_WIN/archive\HeadCT\005737.jpeg and D:/ML_LOCAL_WIN/archive\HeadCT\000044.jpeg
+Duplicate: D:/ML_LOCAL_WIN/archive\HeadCT\005773.jpeg and D:/ML_LOCAL_WIN/archive\HeadCT\000044.jpeg
+Duplicate: D:/ML_LOCAL_WIN/archive\HeadCT\005968.jpeg and D:/ML_LOCAL_WIN/archive\HeadCT\000044.jpeg
+Duplicate: D:/ML_LOCAL_WIN/archive\HeadCT\006174.jpeg and D:/ML_LOCAL_WIN/archive\HeadCT\000044.jpeg
+Duplicate: D:/ML_LOCAL_WIN/archive\HeadCT\006205.jpeg and D:/ML_LOCAL_WIN/archive\HeadCT\000044.jpeg
+Duplicate: D:/ML_LOCAL_WIN/archive\HeadCT\006216.jpeg and D:/ML_LOCAL_WIN/archive\HeadCT\000044.jpeg
+Duplicate: D:/ML_LOCAL_WIN/archive\HeadCT\006236.jpeg and D:/ML_LOCAL_WIN/archive\HeadCT\000044.jpeg
+Duplicate: D:/ML_LOCAL_WIN/archive\HeadCT\006261.jpeg and D:/ML_LOCAL_WIN/archive\HeadCT\000044.jpeg
+Duplicate: D:/ML_LOCAL_WIN/archive\HeadCT\006275.jpeg and D:/ML_LOCAL_WIN/archive\HeadCT\000044.jpeg
+Duplicate: D:/ML_LOCAL_WIN/archive\HeadCT\006283.jpeg and D:/ML_LOCAL_WIN/archive\HeadCT\000044.jpeg
+Duplicate: D:/ML_LOCAL_WIN/archive\HeadCT\006529.jpeg and D:/ML_LOCAL_WIN/archive\HeadCT\000044.jpeg
+Duplicate: D:/ML_LOCAL_WIN/archive\HeadCT\006654.jpeg and D:/ML_LOCAL_WIN/archive\HeadCT\000044.jpeg
+Duplicate: D:/ML_LOCAL_WIN/archive\HeadCT\006728.jpeg and D:/ML_LOCAL_WIN/archive\HeadCT\000044.jpeg
+Duplicate: D:/ML_LOCAL_WIN/archive\HeadCT\006769.jpeg and D:/ML_LOCAL_WIN/archive\HeadCT\000044.jpeg
+Duplicate: D:/ML_LOCAL_WIN/archive\HeadCT\006876.jpeg and D:/ML_LOCAL_WIN/archive\HeadCT\000044.jpeg
+Duplicate: D:/ML_LOCAL_WIN/archive\HeadCT\006933.jpeg and D:/ML_LOCAL_WIN/archive\HeadCT\000044.jpeg
+Duplicate: D:/ML_LOCAL_WIN/archive\HeadCT\006993.jpeg and D:/ML_LOCAL_WIN/archive\HeadCT\000044.jpeg
+Duplicate: D:/ML_LOCAL_WIN/archive\HeadCT\007017.jpeg and D:/ML_LOCAL_WIN/archive\HeadCT\000044.jpeg
+Duplicate: D:/ML_LOCAL_WIN/archive\HeadCT\007060.jpeg and D:/ML_LOCAL_WIN/archive\HeadCT\000044.jpeg
+Duplicate: D:/ML_LOCAL_WIN/archive\HeadCT\007069.jpeg and D:/ML_LOCAL_WIN/archive\HeadCT\000044.jpeg
+Duplicate: D:/ML_LOCAL_WIN/archive\HeadCT\007091.jpeg and D:/ML_LOCAL_WIN/archive\HeadCT\000044.jpeg
+Duplicate: D:/ML_LOCAL_WIN/archive\HeadCT\007102.jpeg and D:/ML_LOCAL_WIN/archive\HeadCT\000044.jpeg
+Duplicate: D:/ML_LOCAL_WIN/archive\HeadCT\007118.jpeg and D:/ML_LOCAL_WIN/archive\HeadCT\000044.jpeg
+Duplicate: D:/ML_LOCAL_WIN/archive\HeadCT\007176.jpeg and D:/ML_LOCAL_WIN/archive\HeadCT\000044.jpeg
+Duplicate: D:/ML_LOCAL_WIN/archive\HeadCT\007200.jpeg and D:/ML_LOCAL_WIN/archive\HeadCT\000044.jpeg
+Duplicate: D:/ML_LOCAL_WIN/archive\HeadCT\007355.jpeg and D:/ML_LOCAL_WIN/archive\HeadCT\000044.jpeg
+Duplicate: D:/ML_LOCAL_WIN/archive\HeadCT\007461.jpeg and D:/ML_LOCAL_WIN/archive\HeadCT\000044.jpeg
+Duplicate: D:/ML_LOCAL_WIN/archive\HeadCT\007513.jpeg and D:/ML_LOCAL_WIN/archive\HeadCT\000044.jpeg
+Duplicate: D:/ML_LOCAL_WIN/archive\HeadCT\008072.jpeg and D:/ML_LOCAL_WIN/archive\HeadCT\000044.jpeg
+Duplicate: D:/ML_LOCAL_WIN/archive\HeadCT\008083.jpeg and D:/ML_LOCAL_WIN/archive\HeadCT\000044.jpeg
+Duplicate: D:/ML_LOCAL_WIN/archive\HeadCT\008425.jpeg and D:/ML_LOCAL_WIN/archive\HeadCT\000044.jpeg
+Duplicate: D:/ML_LOCAL_WIN/archive\HeadCT\008571.jpeg and D:/ML_LOCAL_WIN/archive\HeadCT\000044.jpeg
+Duplicate: D:/ML_LOCAL_WIN/archive\HeadCT\008579.jpeg and D:/ML_LOCAL_WIN/archive\HeadCT\000044.jpeg
+Duplicate: D:/ML_LOCAL_WIN/archive\HeadCT\008913.jpeg and D:/ML_LOCAL_WIN/archive\HeadCT\000044.jpeg
+Duplicate: D:/ML_LOCAL_WIN/archive\HeadCT\008922.jpeg and D:/ML_LOCAL_WIN/archive\HeadCT\000044.jpeg
+Duplicate: D:/ML_LOCAL_WIN/archive\HeadCT\008971.jpeg and D:/ML_LOCAL_WIN/archive\HeadCT\000044.jpeg
+Duplicate: D:/ML_LOCAL_WIN/archive\HeadCT\009083.jpeg and D:/ML_LOCAL_WIN/archive\HeadCT\000044.jpeg
+Duplicate: D:/ML_LOCAL_WIN/archive\HeadCT\009459.jpeg and D:/ML_LOCAL_WIN/archive\HeadCT\000044.jpeg
+Duplicate: D:/ML_LOCAL_WIN/archive\HeadCT\009524.jpeg and D:/ML_LOCAL_WIN/archive\HeadCT\000044.jpeg
+Duplicate: D:/ML_LOCAL_WIN/archive\HeadCT\009762.jpeg and D:/ML_LOCAL_WIN/archive\HeadCT\000044.jpeg
+Duplicate: D:/ML_LOCAL_WIN/archive\HeadCT\009954.jpeg and D:/ML_LOCAL_WIN/archive\HeadCT\000044.jpeg
+Duplicate: D:/ML_LOCAL_WIN/archive\HeadCT\009969.jpeg and D:/ML_LOCAL_WIN/archive\HeadCT\000044.jpeg
+Removing duplicates in folder 'HeadCT':
+Error removing file ('D:/ML_LOCAL_WIN/archive\\HeadCT\\000046.jpeg', 'D:/ML_LOCAL_WIN/archive\\HeadCT\\000044.jpeg'): remove: path should be string, bytes or os.PathLike, not tuple
+Error removing file ('D:/ML_LOCAL_WIN/archive\\HeadCT\\000050.jpeg', 'D:/ML_LOCAL_WIN/archive\\HeadCT\\000044.jpeg'): remove: path should be string, bytes or os.PathLike, not tuple
+Error removing file ('D:/ML_LOCAL_WIN/archive\\HeadCT\\000054.jpeg', 'D:/ML_LOCAL_WIN/archive\\HeadCT\\000044.jpeg'): remove: path should be string, bytes or os.PathLike, not tuple
+Error removing file ('D:/ML_LOCAL_WIN/archive\\HeadCT\\000228.jpeg', 'D:/ML_LOCAL_WIN/archive\\HeadCT\\000044.jpeg'): remove: path should be string, bytes or os.PathLike, not tuple
+Error removing file ('D:/ML_LOCAL_WIN/archive\\HeadCT\\000374.jpeg', 'D:/ML_LOCAL_WIN/archive\\HeadCT\\000044.jpeg'): remove: path should be string, bytes or os.PathLike, not tuple
+Error removing file ('D:/ML_LOCAL_WIN/archive\\HeadCT\\000380.jpeg', 'D:/ML_LOCAL_WIN/archive\\HeadCT\\000044.jpeg'): remove: path should be string, bytes or os.PathLike, not tuple
+Error removing file ('D:/ML_LOCAL_WIN/archive\\HeadCT\\000422.jpeg', 'D:/ML_LOCAL_WIN/archive\\HeadCT\\000044.jpeg'): remove: path should be string, bytes or os.PathLike, not tuple
+Error removing file ('D:/ML_LOCAL_WIN/archive\\HeadCT\\000585.jpeg', 'D:/ML_LOCAL_WIN/archive\\HeadCT\\000044.jpeg'): remove: path should be string, bytes or os.PathLike, not tuple
+Error removing file ('D:/ML_LOCAL_WIN/archive\\HeadCT\\001043.jpeg', 'D:/ML_LOCAL_WIN/archive\\HeadCT\\000044.jpeg'): remove: path should be string, bytes or os.PathLike, not tuple
+Error removing file ('D:/ML_LOCAL_WIN/archive\\HeadCT\\001160.jpeg', 'D:/ML_LOCAL_WIN/archive\\HeadCT\\000044.jpeg'): remove: path should be string, bytes or os.PathLike, not tuple
+Error removing file ('D:/ML_LOCAL_WIN/archive\\HeadCT\\001251.jpeg', 'D:/ML_LOCAL_WIN/archive\\HeadCT\\000044.jpeg'): remove: path should be string, bytes or os.PathLike, not tuple
+Error removing file ('D:/ML_LOCAL_WIN/archive\\HeadCT\\001471.jpeg', 'D:/ML_LOCAL_WIN/archive\\HeadCT\\000044.jpeg'): remove: path should be string, bytes or os.PathLike, not tuple
+Error removing file ('D:/ML_LOCAL_WIN/archive\\HeadCT\\001497.jpeg', 'D:/ML_LOCAL_WIN/archive\\HeadCT\\000044.jpeg'): remove: path should be string, bytes or os.PathLike, not tuple
+Error removing file ('D:/ML_LOCAL_WIN/archive\\HeadCT\\001775.jpeg', 'D:/ML_LOCAL_WIN/archive\\HeadCT\\000044.jpeg'): remove: path should be string, bytes or os.PathLike, not tuple
+Error removing file ('D:/ML_LOCAL_WIN/archive\\HeadCT\\002065.jpeg', 'D:/ML_LOCAL_WIN/archive\\HeadCT\\000044.jpeg'): remove: path should be string, bytes or os.PathLike, not tuple
+Error removing file ('D:/ML_LOCAL_WIN/archive\\HeadCT\\002133.jpeg', 'D:/ML_LOCAL_WIN/archive\\HeadCT\\000044.jpeg'): remove: path should be string, bytes or os.PathLike, not tuple
+Error removing file ('D:/ML_LOCAL_WIN/archive\\HeadCT\\002203.jpeg', 'D:/ML_LOCAL_WIN/archive\\HeadCT\\000044.jpeg'): remove: path should be string, bytes or os.PathLike, not tuple
+Error removing file ('D:/ML_LOCAL_WIN/archive\\HeadCT\\002260.jpeg', 'D:/ML_LOCAL_WIN/archive\\HeadCT\\000044.jpeg'): remove: path should be string, bytes or os.PathLike, not tuple
+Error removing file ('D:/ML_LOCAL_WIN/archive\\HeadCT\\002341.jpeg', 'D:/ML_LOCAL_WIN/archive\\HeadCT\\000044.jpeg'): remove: path should be string, bytes or os.PathLike, not tuple
+Error removing file ('D:/ML_LOCAL_WIN/archive\\HeadCT\\002488.jpeg', 'D:/ML_LOCAL_WIN/archive\\HeadCT\\000044.jpeg'): remove: path should be string, bytes or os.PathLike, not tuple
+Error removing file ('D:/ML_LOCAL_WIN/archive\\HeadCT\\002508.jpeg', 'D:/ML_LOCAL_WIN/archive\\HeadCT\\000044.jpeg'): remove: path should be string, bytes or os.PathLike, not tuple
+Error removing file ('D:/ML_LOCAL_WIN/archive\\HeadCT\\002510.jpeg', 'D:/ML_LOCAL_WIN/archive\\HeadCT\\000044.jpeg'): remove: path should be string, bytes or os.PathLike, not tuple
+Error removing file ('D:/ML_LOCAL_WIN/archive\\HeadCT\\002691.jpeg', 'D:/ML_LOCAL_WIN/archive\\HeadCT\\000044.jpeg'): remove: path should be string, bytes or os.PathLike, not tuple
+Error removing file ('D:/ML_LOCAL_WIN/archive\\HeadCT\\002806.jpeg', 'D:/ML_LOCAL_WIN/archive\\HeadCT\\000044.jpeg'): remove: path should be string, bytes or os.PathLike, not tuple
+Error removing file ('D:/ML_LOCAL_WIN/archive\\HeadCT\\002885.jpeg', 'D:/ML_LOCAL_WIN/archive\\HeadCT\\000044.jpeg'): remove: path should be string, bytes or os.PathLike, not tuple
+Error removing file ('D:/ML_LOCAL_WIN/archive\\HeadCT\\002889.jpeg', 'D:/ML_LOCAL_WIN/archive\\HeadCT\\000044.jpeg'): remove: path should be string, bytes or os.PathLike, not tuple
+Error removing file ('D:/ML_LOCAL_WIN/archive\\HeadCT\\003160.jpeg', 'D:/ML_LOCAL_WIN/archive\\HeadCT\\000044.jpeg'): remove: path should be string, bytes or os.PathLike, not tuple
+Error removing file ('D:/ML_LOCAL_WIN/archive\\HeadCT\\003165.jpeg', 'D:/ML_LOCAL_WIN/archive\\HeadCT\\000044.jpeg'): remove: path should be string, bytes or os.PathLike, not tuple
+Error removing file ('D:/ML_LOCAL_WIN/archive\\HeadCT\\003239.jpeg', 'D:/ML_LOCAL_WIN/archive\\HeadCT\\000044.jpeg'): remove: path should be string, bytes or os.PathLike, not tuple
+Error removing file ('D:/ML_LOCAL_WIN/archive\\HeadCT\\003265.jpeg', 'D:/ML_LOCAL_WIN/archive\\HeadCT\\000044.jpeg'): remove: path should be string, bytes or os.PathLike, not tuple
+Error removing file ('D:/ML_LOCAL_WIN/archive\\HeadCT\\003542.jpeg', 'D:/ML_LOCAL_WIN/archive\\HeadCT\\000044.jpeg'): remove: path should be string, bytes or os.PathLike, not tuple
+Error removing file ('D:/ML_LOCAL_WIN/archive\\HeadCT\\003547.jpeg', 'D:/ML_LOCAL_WIN/archive\\HeadCT\\000044.jpeg'): remove: path should be string, bytes or os.PathLike, not tuple
+Error removing file ('D:/ML_LOCAL_WIN/archive\\HeadCT\\003645.jpeg', 'D:/ML_LOCAL_WIN/archive\\HeadCT\\000044.jpeg'): remove: path should be string, bytes or os.PathLike, not tuple
+Error removing file ('D:/ML_LOCAL_WIN/archive\\HeadCT\\003660.jpeg', 'D:/ML_LOCAL_WIN/archive\\HeadCT\\000044.jpeg'): remove: path should be string, bytes or os.PathLike, not tuple
+Error removing file ('D:/ML_LOCAL_WIN/archive\\HeadCT\\003887.jpeg', 'D:/ML_LOCAL_WIN/archive\\HeadCT\\000044.jpeg'): remove: path should be string, bytes or os.PathLike, not tuple
+Error removing file ('D:/ML_LOCAL_WIN/archive\\HeadCT\\003945.jpeg', 'D:/ML_LOCAL_WIN/archive\\HeadCT\\000044.jpeg'): remove: path should be string, bytes or os.PathLike, not tuple
+Error removing file ('D:/ML_LOCAL_WIN/archive\\HeadCT\\004024.jpeg', 'D:/ML_LOCAL_WIN/archive\\HeadCT\\000044.jpeg'): remove: path should be string, bytes or os.PathLike, not tuple
+Error removing file ('D:/ML_LOCAL_WIN/archive\\HeadCT\\004028.jpeg', 'D:/ML_LOCAL_WIN/archive\\HeadCT\\000044.jpeg'): remove: path should be string, bytes or os.PathLike, not tuple
+Error removing file ('D:/ML_LOCAL_WIN/archive\\HeadCT\\004152.jpeg', 'D:/ML_LOCAL_WIN/archive\\HeadCT\\000044.jpeg'): remove: path should be string, bytes or os.PathLike, not tuple
+Error removing file ('D:/ML_LOCAL_WIN/archive\\HeadCT\\004160.jpeg', 'D:/ML_LOCAL_WIN/archive\\HeadCT\\000044.jpeg'): remove: path should be string, bytes or os.PathLike, not tuple
+Error removing file ('D:/ML_LOCAL_WIN/archive\\HeadCT\\004201.jpeg', 'D:/ML_LOCAL_WIN/archive\\HeadCT\\000044.jpeg'): remove: path should be string, bytes or os.PathLike, not tuple
+Error removing file ('D:/ML_LOCAL_WIN/archive\\HeadCT\\004308.jpeg', 'D:/ML_LOCAL_WIN/archive\\HeadCT\\000044.jpeg'): remove: path should be string, bytes or os.PathLike, not tuple
+Error removing file ('D:/ML_LOCAL_WIN/archive\\HeadCT\\004416.jpeg', 'D:/ML_LOCAL_WIN/archive\\HeadCT\\000044.jpeg'): remove: path should be string, bytes or os.PathLike, not tuple
+Error removing file ('D:/ML_LOCAL_WIN/archive\\HeadCT\\004945.jpeg', 'D:/ML_LOCAL_WIN/archive\\HeadCT\\000044.jpeg'): remove: path should be string, bytes or os.PathLike, not tuple
+Error removing file ('D:/ML_LOCAL_WIN/archive\\HeadCT\\004974.jpeg', 'D:/ML_LOCAL_WIN/archive\\HeadCT\\000044.jpeg'): remove: path should be string, bytes or os.PathLike, not tuple
+Error removing file ('D:/ML_LOCAL_WIN/archive\\HeadCT\\005218.jpeg', 'D:/ML_LOCAL_WIN/archive\\HeadCT\\000044.jpeg'): remove: path should be string, bytes or os.PathLike, not tuple
+Error removing file ('D:/ML_LOCAL_WIN/archive\\HeadCT\\005419.jpeg', 'D:/ML_LOCAL_WIN/archive\\HeadCT\\000044.jpeg'): remove: path should be string, bytes or os.PathLike, not tuple
+Error removing file ('D:/ML_LOCAL_WIN/archive\\HeadCT\\005478.jpeg', 'D:/ML_LOCAL_WIN/archive\\HeadCT\\000044.jpeg'): remove: path should be string, bytes or os.PathLike, not tuple
+Error removing file ('D:/ML_LOCAL_WIN/archive\\HeadCT\\005644.jpeg', 'D:/ML_LOCAL_WIN/archive\\HeadCT\\000044.jpeg'): remove: path should be string, bytes or os.PathLike, not tuple
+Error removing file ('D:/ML_LOCAL_WIN/archive\\HeadCT\\005670.jpeg', 'D:/ML_LOCAL_WIN/archive\\HeadCT\\000044.jpeg'): remove: path should be string, bytes or os.PathLike, not tuple
+Error removing file ('D:/ML_LOCAL_WIN/archive\\HeadCT\\005671.jpeg', 'D:/ML_LOCAL_WIN/archive\\HeadCT\\000044.jpeg'): remove: path should be string, bytes or os.PathLike, not tuple
+Error removing file ('D:/ML_LOCAL_WIN/archive\\HeadCT\\005737.jpeg', 'D:/ML_LOCAL_WIN/archive\\HeadCT\\000044.jpeg'): remove: path should be string, bytes or os.PathLike, not tuple
+Error removing file ('D:/ML_LOCAL_WIN/archive\\HeadCT\\005773.jpeg', 'D:/ML_LOCAL_WIN/archive\\HeadCT\\000044.jpeg'): remove: path should be string, bytes or os.PathLike, not tuple
+Error removing file ('D:/ML_LOCAL_WIN/archive\\HeadCT\\005968.jpeg', 'D:/ML_LOCAL_WIN/archive\\HeadCT\\000044.jpeg'): remove: path should be string, bytes or os.PathLike, not tuple
+Error removing file ('D:/ML_LOCAL_WIN/archive\\HeadCT\\006174.jpeg', 'D:/ML_LOCAL_WIN/archive\\HeadCT\\000044.jpeg'): remove: path should be string, bytes or os.PathLike, not tuple
+Error removing file ('D:/ML_LOCAL_WIN/archive\\HeadCT\\006205.jpeg', 'D:/ML_LOCAL_WIN/archive\\HeadCT\\000044.jpeg'): remove: path should be string, bytes or os.PathLike, not tuple
+Error removing file ('D:/ML_LOCAL_WIN/archive\\HeadCT\\006216.jpeg', 'D:/ML_LOCAL_WIN/archive\\HeadCT\\000044.jpeg'): remove: path should be string, bytes or os.PathLike, not tuple
+Error removing file ('D:/ML_LOCAL_WIN/archive\\HeadCT\\006236.jpeg', 'D:/ML_LOCAL_WIN/archive\\HeadCT\\000044.jpeg'): remove: path should be string, bytes or os.PathLike, not tuple
+Error removing file ('D:/ML_LOCAL_WIN/archive\\HeadCT\\006261.jpeg', 'D:/ML_LOCAL_WIN/archive\\HeadCT\\000044.jpeg'): remove: path should be string, bytes or os.PathLike, not tuple
+Error removing file ('D:/ML_LOCAL_WIN/archive\\HeadCT\\006275.jpeg', 'D:/ML_LOCAL_WIN/archive\\HeadCT\\000044.jpeg'): remove: path should be string, bytes or os.PathLike, not tuple
+Error removing file ('D:/ML_LOCAL_WIN/archive\\HeadCT\\006283.jpeg', 'D:/ML_LOCAL_WIN/archive\\HeadCT\\000044.jpeg'): remove: path should be string, bytes or os.PathLike, not tuple
+Error removing file ('D:/ML_LOCAL_WIN/archive\\HeadCT\\006529.jpeg', 'D:/ML_LOCAL_WIN/archive\\HeadCT\\000044.jpeg'): remove: path should be string, bytes or os.PathLike, not tuple
+Error removing file ('D:/ML_LOCAL_WIN/archive\\HeadCT\\006654.jpeg', 'D:/ML_LOCAL_WIN/archive\\HeadCT\\000044.jpeg'): remove: path should be string, bytes or os.PathLike, not tuple
+Error removing file ('D:/ML_LOCAL_WIN/archive\\HeadCT\\006728.jpeg', 'D:/ML_LOCAL_WIN/archive\\HeadCT\\000044.jpeg'): remove: path should be string, bytes or os.PathLike, not tuple
+Error removing file ('D:/ML_LOCAL_WIN/archive\\HeadCT\\006769.jpeg', 'D:/ML_LOCAL_WIN/archive\\HeadCT\\000044.jpeg'): remove: path should be string, bytes or os.PathLike, not tuple
+Error removing file ('D:/ML_LOCAL_WIN/archive\\HeadCT\\006876.jpeg', 'D:/ML_LOCAL_WIN/archive\\HeadCT\\000044.jpeg'): remove: path should be string, bytes or os.PathLike, not tuple
+Error removing file ('D:/ML_LOCAL_WIN/archive\\HeadCT\\006933.jpeg', 'D:/ML_LOCAL_WIN/archive\\HeadCT\\000044.jpeg'): remove: path should be string, bytes or os.PathLike, not tuple
+Error removing file ('D:/ML_LOCAL_WIN/archive\\HeadCT\\006993.jpeg', 'D:/ML_LOCAL_WIN/archive\\HeadCT\\000044.jpeg'): remove: path should be string, bytes or os.PathLike, not tuple
+Error removing file ('D:/ML_LOCAL_WIN/archive\\HeadCT\\007017.jpeg', 'D:/ML_LOCAL_WIN/archive\\HeadCT\\000044.jpeg'): remove: path should be string, bytes or os.PathLike, not tuple
+Error removing file ('D:/ML_LOCAL_WIN/archive\\HeadCT\\007060.jpeg', 'D:/ML_LOCAL_WIN/archive\\HeadCT\\000044.jpeg'): remove: path should be string, bytes or os.PathLike, not tuple
+Error removing file ('D:/ML_LOCAL_WIN/archive\\HeadCT\\007069.jpeg', 'D:/ML_LOCAL_WIN/archive\\HeadCT\\000044.jpeg'): remove: path should be string, bytes or os.PathLike, not tuple
+Error removing file ('D:/ML_LOCAL_WIN/archive\\HeadCT\\007091.jpeg', 'D:/ML_LOCAL_WIN/archive\\HeadCT\\000044.jpeg'): remove: path should be string, bytes or os.PathLike, not tuple
+Error removing file ('D:/ML_LOCAL_WIN/archive\\HeadCT\\007102.jpeg', 'D:/ML_LOCAL_WIN/archive\\HeadCT\\000044.jpeg'): remove: path should be string, bytes or os.PathLike, not tuple
+Error removing file ('D:/ML_LOCAL_WIN/archive\\HeadCT\\007118.jpeg', 'D:/ML_LOCAL_WIN/archive\\HeadCT\\000044.jpeg'): remove: path should be string, bytes or os.PathLike, not tuple
+Error removing file ('D:/ML_LOCAL_WIN/archive\\HeadCT\\007176.jpeg', 'D:/ML_LOCAL_WIN/archive\\HeadCT\\000044.jpeg'): remove: path should be string, bytes or os.PathLike, not tuple
+Error removing file ('D:/ML_LOCAL_WIN/archive\\HeadCT\\007200.jpeg', 'D:/ML_LOCAL_WIN/archive\\HeadCT\\000044.jpeg'): remove: path should be string, bytes or os.PathLike, not tuple
+Error removing file ('D:/ML_LOCAL_WIN/archive\\HeadCT\\007355.jpeg', 'D:/ML_LOCAL_WIN/archive\\HeadCT\\000044.jpeg'): remove: path should be string, bytes or os.PathLike, not tuple
+Error removing file ('D:/ML_LOCAL_WIN/archive\\HeadCT\\007461.jpeg', 'D:/ML_LOCAL_WIN/archive\\HeadCT\\000044.jpeg'): remove: path should be string, bytes or os.PathLike, not tuple
+Error removing file ('D:/ML_LOCAL_WIN/archive\\HeadCT\\007513.jpeg', 'D:/ML_LOCAL_WIN/archive\\HeadCT\\000044.jpeg'): remove: path should be string, bytes or os.PathLike, not tuple
+Error removing file ('D:/ML_LOCAL_WIN/archive\\HeadCT\\008072.jpeg', 'D:/ML_LOCAL_WIN/archive\\HeadCT\\000044.jpeg'): remove: path should be string, bytes or os.PathLike, not tuple
+Error removing file ('D:/ML_LOCAL_WIN/archive\\HeadCT\\008083.jpeg', 'D:/ML_LOCAL_WIN/archive\\HeadCT\\000044.jpeg'): remove: path should be string, bytes or os.PathLike, not tuple
+Error removing file ('D:/ML_LOCAL_WIN/archive\\HeadCT\\008425.jpeg', 'D:/ML_LOCAL_WIN/archive\\HeadCT\\000044.jpeg'): remove: path should be string, bytes or os.PathLike, not tuple
+Error removing file ('D:/ML_LOCAL_WIN/archive\\HeadCT\\008571.jpeg', 'D:/ML_LOCAL_WIN/archive\\HeadCT\\000044.jpeg'): remove: path should be string, bytes or os.PathLike, not tuple
+Error removing file ('D:/ML_LOCAL_WIN/archive\\HeadCT\\008579.jpeg', 'D:/ML_LOCAL_WIN/archive\\HeadCT\\000044.jpeg'): remove: path should be string, bytes or os.PathLike, not tuple
+Error removing file ('D:/ML_LOCAL_WIN/archive\\HeadCT\\008913.jpeg', 'D:/ML_LOCAL_WIN/archive\\HeadCT\\000044.jpeg'): remove: path should be string, bytes or os.PathLike, not tuple
+Error removing file ('D:/ML_LOCAL_WIN/archive\\HeadCT\\008922.jpeg', 'D:/ML_LOCAL_WIN/archive\\HeadCT\\000044.jpeg'): remove: path should be string, bytes or os.PathLike, not tuple
+Error removing file ('D:/ML_LOCAL_WIN/archive\\HeadCT\\008971.jpeg', 'D:/ML_LOCAL_WIN/archive\\HeadCT\\000044.jpeg'): remove: path should be string, bytes or os.PathLike, not tuple
+Error removing file ('D:/ML_LOCAL_WIN/archive\\HeadCT\\009083.jpeg', 'D:/ML_LOCAL_WIN/archive\\HeadCT\\000044.jpeg'): remove: path should be string, bytes or os.PathLike, not tuple
+Error removing file ('D:/ML_LOCAL_WIN/archive\\HeadCT\\009459.jpeg', 'D:/ML_LOCAL_WIN/archive\\HeadCT\\000044.jpeg'): remove: path should be string, bytes or os.PathLike, not tuple
+Error removing file ('D:/ML_LOCAL_WIN/archive\\HeadCT\\009524.jpeg', 'D:/ML_LOCAL_WIN/archive\\HeadCT\\000044.jpeg'): remove: path should be string, bytes or os.PathLike, not tuple
+Error removing file ('D:/ML_LOCAL_WIN/archive\\HeadCT\\009762.jpeg', 'D:/ML_LOCAL_WIN/archive\\HeadCT\\000044.jpeg'): remove: path should be string, bytes or os.PathLike, not tuple
+Error removing file ('D:/ML_LOCAL_WIN/archive\\HeadCT\\009954.jpeg', 'D:/ML_LOCAL_WIN/archive\\HeadCT\\000044.jpeg'): remove: path should be string, bytes or os.PathLike, not tuple
+Error removing file ('D:/ML_LOCAL_WIN/archive\\HeadCT\\009969.jpeg', 'D:/ML_LOCAL_WIN/archive\\HeadCT\\000044.jpeg'): remove: path should be string, bytes or os.PathLike, not tuple
