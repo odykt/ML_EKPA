@@ -1,0 +1,10 @@
+python -m pip list  --> works when trying to run pip in venv
+
+
+python -m pip freeze > requirements.txt  --> export required installs from pip
+
+D:\ML_LOCAL_WIN\.venv\Scripts\Activate.ps1 --> activate venv
+
+
+!unzip "/content/drive/MyDrive/ml_data/archive.zip" -d "/content/drive/MyDrive/ml_data/archive" --> unzip data colab
+!unzip path_to_file.zip -d path_to_directory
