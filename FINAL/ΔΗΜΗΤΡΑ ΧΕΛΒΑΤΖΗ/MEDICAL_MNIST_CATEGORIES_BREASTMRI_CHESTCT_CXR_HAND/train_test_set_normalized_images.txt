@@ -1,0 +1,5 @@
+# train & test set για τα μοντέλα
+
+Το αρχείο .npz είναι αποθηκευμένο στο Google Drive λόγω μεγάλου μεγέθους.
+
+[Μπορείτε να το κάνετε λήψη από εδώ ->] https://drive.google.com/file/d/1V9NVcr80VzlG3q0D5FytOTrvSW5rJIya/view?usp=sharing
